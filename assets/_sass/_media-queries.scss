@@ -3,15 +3,31 @@
 * ========================================================================== */
 
 @media screen and (min-width: $md-break-point) {
-  body { font-size: 17px; }
-  h1 { font-size: 2em; }
-  h2 { font-size: 1.8em; }
-  h3 { font-size: 1.6em; }
-  h4 { font-size: 1.3em; }
-  h5 { font-size: 1em; }
-  h6 { font-size: .8em; }
+  body {
+    font-size: 17px;
+  }
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 1.8em;
+  }
+  h3 {
+    font-size: 1.6em;
+  }
+  h4 {
+    font-size: 1.3em;
+  }
+  h5 {
+    font-size: 1em;
+  }
+  h6 {
+    font-size: .8em;
+  }
 
-  main { padding-top: 0; }
+  main {
+    padding-top: 0;
+  }
 
   #menu-checkbox:checked + .nav-main {
     -webkit-flex-flow: row nowrap;
@@ -35,7 +51,9 @@
     display: block;
   }
 
-  .sidebar { display: block; }
+  .sidebar {
+    display: block;
+  }
 
   .alingleft, .alignright, .aligncenter {
     display: inline-block;
@@ -51,7 +69,9 @@
     margin: .5em 1em .25em 0;
   }
 
-  .aligncenter { margin: 1em auto; }
+  .aligncenter {
+    margin: 1em auto;
+  }
 
   .elements-wrapper {
     -webkit-flex-flow: row wrap;
@@ -64,7 +84,9 @@
 
   }
 
-  .date { display: block;}
+  .date {
+    display: block;
+  }
 
   .work {
     display: flex;
@@ -77,8 +99,12 @@
         border-right: 1px solid #ddd;
       }
 
-      &:first-child { border-top-width: 0; }
-      &:nth-child(2) { border-top-width: 0; }
+      &:first-child {
+        border-top-width: 0;
+      }
+      &:nth-child(2) {
+        border-top-width: 0;
+      }
     }
 
     &-item-small {
@@ -89,15 +115,11 @@
   }
 }
 
-
-
 @media screen and (max-width: $break-point) {
   .nav-main a {
     font-size: 14px;
   }
 }
-
-
 
 @media screen and (min-width: $break-point) {
   table {
@@ -114,10 +136,10 @@
   }
 
   .nav-main {
-    padding: 0;
+    padding: 10px 0 0 0;
     text-align: left;
     a {
-      font-size: 13px;
+      font-size: 28px;
       display: block;
       padding-right: 2em;
       margin: 0;
