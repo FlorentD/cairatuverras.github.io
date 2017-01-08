@@ -229,7 +229,7 @@ article {
 
 .post-meta {
   padding-bottom: .5em;
-  text-transform: uppercase;
+  text-align: right;
   color: #b9b9b9;
   font-size: 70%;
   font-weight: bold;
@@ -317,4 +317,19 @@ article {
     margin-top: 10px;
     display: block;
   }
+}
+
+/*
+POSTS
+ */
+
+.post {
+  &-title {
+    text-align: center;
+    font-size: 3em;
+  }
+}
+
+.fb-like {
+  padding: 20px 0;
 }
