@@ -145,7 +145,7 @@ a {
   transition: all 0.8s ease 0s;
   text-align: center;
   position: relative;
-  //background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.75)) repeat scroll 0% 0% transparent;
+  background: linear-gradient(180deg, transparent 40%, rgba(0, 0, 0, 0.9)) repeat scroll 0% 0% transparent;
 }
 
 .cover-text {
@@ -167,6 +167,25 @@ a {
       position: absolute;
       bottom: 0;
     }
+  }
+}
+
+.cover-social {
+  @include display(flex);
+  @include justify-content(center);
+  @include align-items(center);
+  position: absolute;
+  width: 80%;
+  bottom: 8%;
+  left: 10%;
+  text-align: center;
+
+  span {
+    margin: 5px;
+  }
+
+  .twitter {
+    margin-top: 12px;
   }
 }
 
@@ -330,6 +349,12 @@ POSTS
   }
 }
 
-.fb-like {
+.post-social {
   padding: 20px 0;
+  @include display(flex);
+  @include align-items(center);
+
+  span {
+    margin: 5px;
+  }
 }

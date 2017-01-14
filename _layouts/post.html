@@ -32,8 +32,18 @@ layout: default
         </a>
         {% endif %}
 
+        <div class="post-social">
+            <span>
         <div class="fb-like" data-href="{{site.url}}{{page.url}}" data-layout="button_count"
              data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+            </span>
+            <span>
+          <a class="twitter-share-button"
+             href="https://twitter.com/intent/tweet?text={{ page.title }}, {{ page.summary }}"
+             data-size="large">
+              Tweet</a>
+              </span>
+        </div>
 
     </div>
     {% if page.comments %}
