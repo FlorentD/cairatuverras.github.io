@@ -1,6 +1,6 @@
 /*
-* Zoom Images, Get Date and Shadow
-* ========================================================================== */
+ * Zoom Images, Get Date and Shadow
+ * ========================================================================== */
 
 (function() {
   /* variables */
@@ -84,8 +84,8 @@
 
 
 /*
-* Aside Resize
-* ========================================================================== */
+ * Aside Resize
+ * ========================================================================== */
 
 (function() {
   var aside = document.querySelector('.sidebar');
@@ -103,4 +103,12 @@
       c.classList.toggle('centering');
     });
   }
+})();
+
+// Social aside
+(function() {
+  setTimeout(function() {
+    var social = document.querySelector('.cover-social');
+    social.classList.add('cover-social-show');
+  }, 1600);
 })();
