@@ -1,5 +1,6 @@
 ---
 bg: "sea.jpg"
+ogImage: "feet2.jpg"
 layout: post
 title: "Mais pourquoi ?"
 summary: "Car ça mérite une petite explication"
