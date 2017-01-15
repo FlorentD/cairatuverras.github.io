@@ -171,9 +171,6 @@ a {
 }
 
 .cover-social {
-  @include display(flex);
-  @include justify-content(center);
-  @include align-items(center);
   @include transition(opacity 300ms);
   opacity: 0;
   position: absolute;
@@ -181,6 +178,18 @@ a {
   bottom: 8%;
   left: 10%;
   text-align: center;
+
+  &-share {
+    @include display(flex);
+    @include justify-content(center);
+    @include align-items(center);
+  }
+
+  &-link {
+    a {
+      margin: auto 5px;
+    }
+  }
 
   &-show {
     opacity: 1;
