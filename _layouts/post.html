@@ -65,26 +65,3 @@ layout: default
     {% endif %}
 
 </article>
-<script>
-  var images = document.querySelectorAll('a > img');
-  [].forEach.call(images, function(img) {
-    const element = document.createElement('span');
-    element.innerHTML = '<a data-pin-do="buttonPin" class="pinterest" href="https://www.pinterest.com/pin/create/button/?url={{site.url}}{{page.url}}&media=' + img.src + '" data-pin-custom="true" target="_blank"><img src="https://addons.opera.com/media/extensions/55/19155/1.1-rev1/icons/icon_64x64.png" width="25" height="25"></a>';
-    img.addEventListener('mouseenter', function() {
-      var rect = img.getBoundingClientRect();
-      element.style.position = 'absolute';
-      element.style.marginTop = '-' + (rect.height + 10) + 'px';
-      element.style.marginLeft = rect.width - 30 + 'px';
-      img.parentNode.appendChild(element);
-    });
-    img.addEventListener('mouseleave', function(e) {
-      var rect = img.getBoundingClientRect();
-      if (e.clientX <= rect.left
-        || e.clientX >= rect.left + rect.width
-        || e.clientY <= rect.top
-        || e.clientY >= rect.top + rect.height) {
-        img.parentNode.removeChild(element);
-      }
-    });
-  });
-</script>
