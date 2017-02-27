@@ -6,6 +6,10 @@
 .center-wrapper {
   max-width: $break-point;
   margin: 0 auto;
+
+  img {
+    max-width: 740px;
+  }
 }
 
 .hidden {
