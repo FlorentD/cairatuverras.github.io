@@ -23,6 +23,8 @@ Rapidement on se rend compte qu'à quelques jours de cette sacro-sainte fête de
 2. les prix sont exorbitants pour loger chez Dédé76 qui laisse gentiment la chambre de son ado en pension.
 3. pour la  météo on peut s'attendre à tout et surtout c'est l' HIVER !!
 
+[![railroad]({{ site.images }}/normandie_1/13_vents.jpg)]({{ site.images }}/normandie_1/13_vents.jpg
+
 *Petites voix amicales : “Mais pourquoi vous n’allez pas au ski ?”,  “Tu sais chez Ryanair, Lisbonne t'en a pour 50 € aller-retour !”*
 
 Eh bien non ! On veut vous montrer qu'on peut aussi apprécier de beaux coins de notre douce France, à 2h de Paris, sans se ruiner et en profitant des choses simples.
@@ -79,7 +81,7 @@ La première dénichée finalement sur Airbnb, une maison atypique qui rentrait 
 
 [![railroad]({{ site.images }}/normandie_1/7_maison_bois.jpg)]({{ site.images }}/normandie_1/7_maison_bois.jpg)
 
-*(https://www.airbnb.fr/rooms/2008041?s=b8782d7Z)[https://www.airbnb.fr/rooms/2008041?s=b8782d7Z]*
+a href="https://www.airbnb.fr/rooms/2008041?s=b8782d7Z">https://augreduvent76.jimdo.com/</a>
 
 La seconde surprise se trouvait plus au nord près de Fécamp et on ne tarira pas d’éloges sur l’accueil et la qualité du séjour, aussi court fût-il, dans la maison d’hôtes de Martine et Stéphane. “Au gré du vent”,  leurs chambres à thèmes étaient décorées avec beaucoup de goût et pouvaient accueillir aussi bien une famille, qu’un couple ou une bande d’amis. 
 On vous laisse découvrir leur charmante demeure ….
@@ -87,9 +89,7 @@ On vous laisse découvrir leur charmante demeure ….
 [![railroad]({{ site.images }}/normandie_1/12_auberge.jpg)]({{ site.images }}/normandie_1/12_auberge.jpg)
 
 
-*(https://augreduvent76.jimdo.com/)[https://augreduvent76.jimdo.com/]*
-
-
+<a href="https://augreduvent76.jimdo.com/">https://augreduvent76.jimdo.com/</a>
 
 
 **Liste de plaisirs simples et gratuits :**
