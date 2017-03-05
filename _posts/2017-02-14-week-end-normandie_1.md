@@ -23,7 +23,7 @@ Rapidement on se rend compte qu'à quelques jours de cette sacro-sainte fête de
 2) les prix sont exorbitants pour loger chez Dédé76 qui laisse gentiment la chambre de son ado en pension.
 3) pour la  météo on peut s'attendre à tout et surtout c'est l' HIVER !!
 
-Petites voix amicales : “Mais pourquoi vous n’allez pas au ski ?”,  “Tu sais chez Ryanair, Lisbonne t'en a pour 50 € aller-retour!”
+*Petites voix amicales : “Mais pourquoi vous n’allez pas au ski ?”,  “Tu sais chez Ryanair, Lisbonne t'en a pour 50 € aller-retour!”*
 
 Eh bien non! On veut vous montrer qu'on peut aussi apprécier de beaux coins de notre douce France à 2h de Paris sans se ruiner et en profitant des choses simples.
 
@@ -31,11 +31,11 @@ Eh bien non! On veut vous montrer qu'on peut aussi apprécier de beaux coins de 
 [![railroad]({{ site.images }}/normandie_1/2_walk.jpg)]({{ site.images }}/normandie_1/2_walk.jpg)
 
 
-En voiture Simone! 
+**En voiture Simone!** 
 
 La route est plutôt directe en partant de Paris mais peut vite devenir longue et ennuyeuse surtout si vous passez par l'autoroute. Alors certes le détour par la campagne fait perdre un peu de temps, mais on gagne en paysages, en détente, en carburant et en péage.
 
-Le vent l’emportera.
+**Le vent l’emportera.**
 
 Direction tout d’abord Luc-sur-mer et sa plage où le froid avait fait fuir la plupart des touristes et ne laissait que quelques familles et couples profiter paisiblement d’une balade à marée basse et d’une vue surprenante sur sa jetée.
 
