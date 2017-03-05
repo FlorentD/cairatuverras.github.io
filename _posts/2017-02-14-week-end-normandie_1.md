@@ -94,15 +94,15 @@ On vous laisse découvrir leur charmante demeure ….
 
 **Liste de plaisirs simples et gratuits :**
 
--écouter les radios locales en parcourant des kilomètres de campagne dépaysante
--ressortir la bonne vieille carte car il n’y a aucun réseau
--se couper un peu de la technologie en éteignant son portable
-- se balader dans la gadoue au bord des falaises et se laisser porter par le vent
--parcourir les ruelles de Bayeux en se faisant refouler de tous les restaus car on a rien réservé mais finir par trouver un petit coin de gastronomie goûtu  et accueillant.
++ écouter les radios locales en parcourant des kilomètres de campagne dépaysante
++ ressortir la bonne vieille carte car il n’y a aucun réseau
++ se couper un peu de la technologie en éteignant son portable
++ se balader dans la gadoue au bord des falaises et se laisser porter par le vent
++ parcourir les ruelles de Bayeux en se faisant refouler de tous les restaus car on a rien réservé mais finir par trouver un petit coin de gastronomie goûtu  et accueillant.
 | -> d’ailleurs pour la partie gourmande, on vous en parle dans un prochain article...
--être accueillis et conseillés par des gens adorables 
--écouter le bruit des vagues venant s’échouer sur la plage
-- faire un concours de lancer de galets
++ être accueillis et conseillés par des gens adorables 
++ écouter le bruit des vagues venant s’échouer sur la plage
++ faire un concours de lancer de galets.
 
 [![railroad]({{ site.images }}/normandie_1/12_pieds.jpg)]({{ site.images }}/normandie_1/12_pieds.jpg)
 
