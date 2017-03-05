@@ -1,5 +1,15 @@
 @import "bourbon/bourbon";
 
+@font-face {
+  font-family: 'Bernadette';
+  src: url('../css/bernadette/Bernadette.eot?#iefix') format('embedded-opentype'),
+  url('../css/bernadette/Bernadette.woff') format('woff'),
+  url('../css/bernadette/Bernadette.ttf') format('truetype'),
+  url('../css/bernadette/Bernadette.svg#Bernadette') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /*
 * Base Styles
 * ========================================================================== */
@@ -32,8 +42,8 @@ article p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Amatic SC', cursive;
-  font-weight: bold;
+  font-family: 'Bernadette', cursive;
+  font-weight: normal;
   a:link, a:hover, a:focus, a:visited {
     color: #333;
     text-decoration: none;
