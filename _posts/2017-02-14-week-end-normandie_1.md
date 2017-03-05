@@ -12,7 +12,6 @@ author: Déborah
 ---
 
 [![railroad]({{ site.images }}/normandie_1/1_head.jpg)]({{ site.images }}/normandie_1/1_head.jpg)
-
 On est à quelques jours de la Saint Valentin, on a encore rien prévu et on ne compte pas tomber dans les niaiseries florales ou chocolatées proposées par les magasins qui passent sous notre nez chaque jour depuis le 2 février.
 
 Comme tout bon internaute on tape sur  Google : Week-end romantique en Normandie / Que faire en Normandie pas cher?  / Idées folles pour ne pas s’ennuyer en normandie s'il fait moche. 
