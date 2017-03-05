@@ -98,9 +98,9 @@ https://augreduvent76.jimdo.com/
 + ressortir la bonne vieille carte car il n’y a aucun réseau
 + se couper un peu de la technologie en éteignant son portable
 + se balader dans la gadoue au bord des falaises et se laisser porter par le vent
-+ parcourir les ruelles de Bayeux en se faisant refouler de tous les restaus car on a rien réservé mais finir par trouver un petit coin de gastronomie goûtu  et accueillant.
-…. d’ailleurs pour la partie gourmande, on vous en parle dans un prochain article...
-+ être accueillis et conseillés par des gens adorables 
++ parcourir les ruelles de Bayeux en se faisant refouler de tous les restaus car on a rien réservé mais finir par trouver un petit coin de gastronomie goûtu  et accueillant
+*-> d’ailleurs pour la partie gourmande, on vous en parle dans un prochain article...*
++ être accueillis et conseillés par des personnes adorables 
 + écouter le bruit des vagues venant s’échouer sur la plage
 + faire un concours de lancer de galets
 
