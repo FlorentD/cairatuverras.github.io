@@ -33,7 +33,7 @@ Eh bien non! On veut vous montrer qu'on peut aussi apprécier de beaux coins de 
 
 **En voiture Simone!** 
 
-La route est plutôt directe en partant de Paris mais peut vite devenir longue et ennuyeuse surtout si vous passez par l'autoroute. Alors certes le détour par la campagne fait perdre un peu de temps, mais on gagne en paysages, en détente, en carburant et en péage.
+La route est plutôt directe en partant de Paris, mais peut vite devenir longue et ennuyeuse surtout si vous passez par l'autoroute. Alors certes le détour par la campagne fait perdre un peu de temps, mais on gagne en paysages, en détente, en carburant et en péage.
 
 **Le vent l’emportera.**
 
@@ -51,38 +51,38 @@ Une fois arrivés à la fameuse chapelle Notre Dame de la Garde, il ne faut pas 
 
 [![railroad]({{ site.images }}/normandie_1/5_debo_banc.jpg)]({{ site.images }}/normandie_1/5_debo_banc.jpg)
 
-Le lendemain, la route pour Honfleur était longue et grisonnante. Mais à l’arrivée son port si charmant et ses maisons normandes se découvraient dans de jolies petites ruelles mystérieuses. La balade était agréable dans une ambiance détendue d’un dimanche matin.
+Le lendemain, la route pour Honfleur était longue et grisonnante. Mais à l’arrivée son port si charmant et ses maisons normandes se découvraient dans de jolies petites ruelles mystérieuses.
 
 [![railroad]({{ site.images }}/normandie_1/6_honfleur.jpg)]({{ site.images }}/normandie_1/6_honfleur.jpg)
 
 Fin du Calvados et cap sur la Seine Maritime, 
-Tout le monde connaît Fécamp mais à quelques pas de là, le petit hameau des Petites Dalles coincé entre deux falaises impressionnantes vaut le détour pour son calme et ses maisons dignes des contes de fées.
+Tout le monde connaît Fécamp mais à quelques pas de là, le charmand hameau des Petites Dalles coincé entre deux impressionnantes falaises, vaut le détour pour son calme et ses maisons dignes des contes de fées.
 
 [![railroad]({{ site.images }}/normandie_1/9_maison.jpg)]({{ site.images }}/normandie_1/9_maison.jpg)
 
-Nous avons gravi une belle pente raide pour arriver au sommet. Le soleil avait enfin percé les nuages, on pouvait tranquillement s’allonger dans les herbes fraîches du haut des falaises et respirer à plein poumons les airs marins sous les rayons chauds de midi.
+Nous avons gravi une belle pente raide pour arriver au sommet. Le soleil avait enfin percé les nuages, on pouvait tranquillement s’allonger dans les herbes fraîches du haut des falaises et respirer à pleins poumons les airs marins sous les rayons chauds de midi.
 
 [![railroad]({{ site.images }}/normandie_1/10_falaises.jpg)]({{ site.images }}/normandie_1/10_falaises.jpg)
 
-Pour terminer le week-end, c'est à Yport que nous avons pris une dernière crèpe dans un café avec vue sur le port, ses cabines bleues et blanches, ses mouettes et ses marins accostant en fin de journée, nous laissant encore une belle image avant de reprendre la route.
+Pour terminer le week-end, c'est à Yport que nous avons pris une dernière crèpe dans un café avec vue sur le port, ses cabines bleues et blanches, ses mouettes et ses marins accostant en fin de journée, nous laissant encore une jolie vision avant de reprendre la route.
 
 [![railroad]({{ site.images }}/normandie_1/8_pecheurs.jpg)]({{ site.images }}/normandie_1/8_pecheurs.jpg)
 
-Nos abris pour la nuit. 
+**Nos abris pour la nuit.** 
 
 Deux agréables surprises trouvées au dernier moment:
 
-La première dénichée finalement sur AIRBNB, une maison atypique qui rentrait parfaitement dans nos critères et rêves écolos...
+La première dénichée finalement sur Airbnb, une maison atypique qui rentrait parfaitement dans nos critères et rêves écolos...
 
-A l'intérieur, un style moderne et un poêle à granules qui vous réchauffait tranquillement, le matin les trois petites poules venues nous dire bonjour à la fenêtre avant le petit-déjeuner bien complet préparé par notre hôte Hervé. On recommande vivement cet endroit à deux pas de Bayeux.
+À l'intérieur, un style moderne et un poêle à granules qui vous réchauffait tranquillement, le matin trois petites poules venues nous dire bonjour à la fenêtre avant le petit-déjeuner bien complet préparé par notre hôte Hervé. On recommande vivement cet endroit à deux pas de Bayeux.
 
 
 [![railroad]({{ site.images }}/normandie_1/7_maison_bois.jpg)]({{ site.images }}/normandie_1/7_maison_bois.jpg)
 
 https://www.airbnb.fr/rooms/2008041?s=b8782d7Z
 
-La seconde surprise se trouvait plus au nord près de Fécamp et on ne tarira pas d’éloges sur l’accueil et la qualité du séjour aussi court fût il dans la maison d’hôtes de Martine et Stéphane. “Au gré du vent”,  leurs chambres à thèmes étaient décorées avec beaucoup de goût et pouvaient accueillir aussi bien une famille, qu’un couple ou une bande d’amis. 
-On vous laisse découvrir leurs chambres toutes mignonnes ….
+La seconde surprise se trouvait plus au nord près de Fécamp et on ne tarira pas d’éloges sur l’accueil et la qualité du séjour, aussi court fût-il, dans la maison d’hôtes de Martine et Stéphane. “Au gré du vent”,  leurs chambres à thèmes étaient décorées avec beaucoup de goût et pouvaient accueillir aussi bien une famille, qu’un couple ou une bande d’amis. 
+On vous laisse découvrir leur charmante demeure ….
 
 [![railroad]({{ site.images }}/normandie_1/12_auberge.jpg)]({{ site.images }}/normandie_1/12_auberge.jpg)
 
@@ -92,7 +92,7 @@ https://augreduvent76.jimdo.com/
 
 
 
-Liste de plaisirs simples et gratuits :
+**Liste de plaisirs simples et gratuits:**
 
 -écouter les radios locales en parcourant des kilomètres de campagne dépaysante
 -ressortir la bonne vieille carte car il n’y a aucun réseau
@@ -107,4 +107,4 @@ Liste de plaisirs simples et gratuits :
 [![railroad]({{ site.images }}/normandie_1/12_pieds.jpg)]({{ site.images }}/normandie_1/12_pieds.jpg)
 
 
-Et vous quels sont vos plaisirs simples en week-end, en vacances, entre amis, en famille?
+Et vous? Quels sont vos plaisirs simples en week-end, en vacances, entre amis, en famille?
