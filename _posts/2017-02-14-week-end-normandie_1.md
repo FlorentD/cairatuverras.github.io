@@ -23,7 +23,7 @@ Rapidement on se rend compte qu'à quelques jours de cette sacro-sainte fête de
 2. les prix sont exorbitants pour loger chez Dédé76 qui laisse gentiment la chambre de son ado en pension.
 3. pour la  météo on peut s'attendre à tout et surtout c'est l' HIVER !!
 
-[![railroad]({{ site.images }}/normandie_1/13_vents.jpg)]({{ site.images }}/normandie_1/13_vents.jpg
+[![railroad]({{ site.images }}/normandie_1/13_vents.jpg)]({{ site.images }}/normandie_1/13_vents.jpg)
 
 *Petites voix amicales : “Mais pourquoi vous n’allez pas au ski ?”,  “Tu sais chez Ryanair, Lisbonne t'en a pour 50 € aller-retour !”*
 
@@ -81,7 +81,7 @@ La première dénichée finalement sur Airbnb, une maison atypique qui rentrait 
 
 [![railroad]({{ site.images }}/normandie_1/7_maison_bois.jpg)]({{ site.images }}/normandie_1/7_maison_bois.jpg)
 
-a href="https://www.airbnb.fr/rooms/2008041?s=b8782d7Z">https://augreduvent76.jimdo.com/</a>
+<div class="post-link"><a href="https://www.airbnb.fr/rooms/2008041?s=b8782d7Z">https://augreduvent76.jimdo.com/</a></div>
 
 La seconde surprise se trouvait plus au nord près de Fécamp et on ne tarira pas d’éloges sur l’accueil et la qualité du séjour, aussi court fût-il, dans la maison d’hôtes de Martine et Stéphane. “Au gré du vent”,  leurs chambres à thèmes étaient décorées avec beaucoup de goût et pouvaient accueillir aussi bien une famille, qu’un couple ou une bande d’amis. 
 On vous laisse découvrir leur charmante demeure ….
@@ -89,7 +89,7 @@ On vous laisse découvrir leur charmante demeure ….
 [![railroad]({{ site.images }}/normandie_1/12_auberge.jpg)]({{ site.images }}/normandie_1/12_auberge.jpg)
 
 
-<a href="https://augreduvent76.jimdo.com/">https://augreduvent76.jimdo.com/</a>
+<div class="post-link"><a href="https://augreduvent76.jimdo.com/">https://augreduvent76.jimdo.com/</a></div>
 
 
 **Liste de plaisirs simples et gratuits :**
@@ -100,7 +100,8 @@ On vous laisse découvrir leur charmante demeure ….
 + se balader dans la gadoue au bord des falaises et se laisser porter par le vent
 + parcourir les ruelles de Bayeux en se faisant refouler de tous les restaus car on a rien réservé mais finir par trouver un petit coin de gastronomie goûtu  et accueillant.
 
--> d’ailleurs pour la partie gourmande, on vous en parle dans un prochain article...
+ -> d’ailleurs pour la partie gourmande, on vous en parle dans un prochain article...
+
 + être accueillis et conseillés par des gens adorables 
 + écouter le bruit des vagues venant s’échouer sur la plage
 + faire un concours de lancer de galets.
@@ -108,4 +109,4 @@ On vous laisse découvrir leur charmante demeure ….
 [![railroad]({{ site.images }}/normandie_1/12_pieds.jpg)]({{ site.images }}/normandie_1/12_pieds.jpg)
 
 
-Et vous? Quels sont vos plaisirs simples en week-end, en vacances, entre amis, en famille?
+Et vous ? Quels sont vos plaisirs simples en week-end, en vacances, entre amis, en famille ?
