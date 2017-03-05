@@ -4,7 +4,7 @@ ogImage: "normadie_1/1_head.jpg"
 layout: post
 title: "La Normandie ça vous dit ?"
 summary: "Ciel bleu presque garanti"
-date:   2017-02-26 20:00:00 +0100
+date:   2017-02-10 20:00:00 +0100
 categories: posts
 comments: true
 tags: ['normandie']
