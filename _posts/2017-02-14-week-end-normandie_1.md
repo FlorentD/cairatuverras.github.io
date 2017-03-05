@@ -23,9 +23,9 @@ Rapidement on se rend compte qu'à quelques jours de cette sacro-sainte fête de
 2. les prix sont exorbitants pour loger chez Dédé76 qui laisse gentiment la chambre de son ado en pension.
 3. pour la  météo on peut s'attendre à tout et surtout c'est l' HIVER !!
 
-*Petites voix amicales : “Mais pourquoi vous n’allez pas au ski ?”,  “Tu sais chez Ryanair, Lisbonne t'en a pour 50 € aller-retour!”*
+*Petites voix amicales : “Mais pourquoi vous n’allez pas au ski ?”,  “Tu sais chez Ryanair, Lisbonne t'en a pour 50 € aller-retour !”*
 
-Eh bien non! On veut vous montrer qu'on peut aussi apprécier de beaux coins de notre douce France, à 2h de Paris, sans se ruiner et en profitant des choses simples.
+Eh bien non ! On veut vous montrer qu'on peut aussi apprécier de beaux coins de notre douce France, à 2h de Paris, sans se ruiner et en profitant des choses simples.
 
 
 [![railroad]({{ site.images }}/normandie_1/2_walk.jpg)]({{ site.images }}/normandie_1/2_walk.jpg)
@@ -39,7 +39,7 @@ La route est plutôt directe en partant de Paris, mais peut vite devenir longue 
 
 Direction tout d’abord Luc-sur-mer et sa plage où le froid avait fait fuir la plupart des touristes et ne laissait que quelques familles et couples profiter paisiblement d’une balade à marée basse et d’une vue surprenante sur sa jetée.
 
-Il est vrai que le dimanche et de surcroît l’hiver de nombreux commerces ou visites ne sont pas ouverts mais qu’importe! Plutôt que de passer des journées à courir après mille et uns points d’intérêt, on a au contraire laissé les paysages venir à nous, on a pris le temps de se poser, de se promener, de découvrir l’architecture de ces villes et villages normands, d’observer la nature et les gens.
+Il est vrai que le dimanche et de surcroît l’hiver de nombreux commerces ou visites ne sont pas ouverts mais qu’importe ! Plutôt que de passer des journées à courir après mille et un points d’intérêt, on a au contraire laissé les paysages venir à nous, on a pris le temps de se poser, de se promener, de découvrir l’architecture de ces villes et villages normands, d’observer la nature et les gens.
 
 [![railroad]({{ site.images }}/normandie_1/3_bayeux.jpg)]({{ site.images }}/normandie_1/3_bayeux.jpg)
 
@@ -70,7 +70,7 @@ Pour terminer le week-end, c'est à Yport que nous avons pris une dernière crè
 
 **Nos abris pour la nuit.** 
 
-Deux agréables surprises trouvées au dernier moment:
+Deux agréables surprises trouvées au dernier moment :
 
 La première dénichée finalement sur Airbnb, une maison atypique qui rentrait parfaitement dans nos critères et rêves écolos...
 
@@ -79,7 +79,7 @@ La première dénichée finalement sur Airbnb, une maison atypique qui rentrait 
 
 [![railroad]({{ site.images }}/normandie_1/7_maison_bois.jpg)]({{ site.images }}/normandie_1/7_maison_bois.jpg)
 
-https://www.airbnb.fr/rooms/2008041?s=b8782d7Z
+(https://www.airbnb.fr/rooms/2008041?s=b8782d7Z)[https://www.airbnb.fr/rooms/2008041?s=b8782d7Z]
 
 La seconde surprise se trouvait plus au nord près de Fécamp et on ne tarira pas d’éloges sur l’accueil et la qualité du séjour, aussi court fût-il, dans la maison d’hôtes de Martine et Stéphane. “Au gré du vent”,  leurs chambres à thèmes étaient décorées avec beaucoup de goût et pouvaient accueillir aussi bien une famille, qu’un couple ou une bande d’amis. 
 On vous laisse découvrir leur charmante demeure ….
@@ -87,22 +87,22 @@ On vous laisse découvrir leur charmante demeure ….
 [![railroad]({{ site.images }}/normandie_1/12_auberge.jpg)]({{ site.images }}/normandie_1/12_auberge.jpg)
 
 
-https://augreduvent76.jimdo.com/
+(https://augreduvent76.jimdo.com/)[https://augreduvent76.jimdo.com/]
 
 
 
 
-**Liste de plaisirs simples et gratuits:**
+**Liste de plaisirs simples et gratuits :**
 
-+ écouter les radios locales en parcourant des kilomètres de campagne dépaysante
-+ ressortir la bonne vieille carte car il n’y a aucun réseau
-+ se couper un peu de la technologie en éteignant son portable
-+ se balader dans la gadoue au bord des falaises et se laisser porter par le vent
-+ parcourir les ruelles de Bayeux en se faisant refouler de tous les restaus car on a rien réservé mais finir par trouver un petit coin de gastronomie goûtu  et accueillant
-*-> d’ailleurs pour la partie gourmande, on vous en parle dans un prochain article...*
-+ être accueillis et conseillés par des personnes adorables 
-+ écouter le bruit des vagues venant s’échouer sur la plage
-+ faire un concours de lancer de galets
+-écouter les radios locales en parcourant des kilomètres de campagne dépaysante
+-ressortir la bonne vieille carte car il n’y a aucun réseau
+-se couper un peu de la technologie en éteignant son portable
+- se balader dans la gadoue au bord des falaises et se laisser porter par le vent
+-parcourir les ruelles de Bayeux en se faisant refouler de tous les restaus car on a rien réservé mais finir par trouver un petit coin de gastronomie goûtu  et accueillant.
+…. d’ailleurs pour la partie gourmande, on vous en parle dans un prochain article...
+-être accueillis et conseillés par des gens adorables 
+-écouter le bruit des vagues venant s’échouer sur la plage
+- faire un concours de lancer de galets
 
 [![railroad]({{ site.images }}/normandie_1/12_pieds.jpg)]({{ site.images }}/normandie_1/12_pieds.jpg)
 
