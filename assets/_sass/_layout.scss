@@ -77,6 +77,12 @@ a {
   top: 0;
 }
 
+@media screen and (max-width: $break-point) {
+  .main-header {
+    display: none;
+  }
+}
+
 /*
 * Header Navigation
 * ========================================================================== */
@@ -215,9 +221,6 @@ a {
 /*
 * Article
 * ========================================================================== */
-main {
-  padding-top: 3em;
-}
 
 .index-page {
   position: relative;
