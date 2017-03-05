@@ -19,13 +19,13 @@ Comme tout bon internaute on tape sur  Google : Week-end romantique en Normandie
 
 Rapidement on se rend compte qu'à quelques jours de cette sacro-sainte fête des amoureux, 
 
-1) tous les bons plans sont réservés (par les filles prévoyantes qui ont fait ces recherches dès le 2 février) 
-2) les prix sont exorbitants pour loger chez Dédé76 qui laisse gentiment la chambre de son ado en pension.
-3) pour la  météo on peut s'attendre à tout et surtout c'est l' HIVER !!
+1. tous les bons plans sont réservés (par les filles prévoyantes qui ont fait ces recherches dès le 2 février) 
+2. les prix sont exorbitants pour loger chez Dédé76 qui laisse gentiment la chambre de son ado en pension.
+3. pour la  météo on peut s'attendre à tout et surtout c'est l' HIVER !!
 
 *Petites voix amicales : “Mais pourquoi vous n’allez pas au ski ?”,  “Tu sais chez Ryanair, Lisbonne t'en a pour 50 € aller-retour!”*
 
-Eh bien non! On veut vous montrer qu'on peut aussi apprécier de beaux coins de notre douce France à 2h de Paris sans se ruiner et en profitant des choses simples.
+Eh bien non! On veut vous montrer qu'on peut aussi apprécier de beaux coins de notre douce France, à 2h de Paris, sans se ruiner et en profitant des choses simples.
 
 
 [![railroad]({{ site.images }}/normandie_1/2_walk.jpg)]({{ site.images }}/normandie_1/2_walk.jpg)
