@@ -13,6 +13,7 @@ author: Déborah
 
 [![railroad]({{ site.images }}/normandie_2/platendroit.jpg)]({{ site.images }}/normandie_2/platendroit.jpg)
 Comme vous l’avez compris, la Normandie nous a plu pour son air vivifiant.<br/> Mais si on a survécu à des journées bien venteuses, c’est aussi grâce à des adresses gourmandes découvertes tout au long de notre parcours.
+
 Au détour d’une minuscule impasse de Caen, la première adresse est une **« Cantine farfelue »** et on confirme ce côté un poil déjanté !
 
 [![railroad]({{ site.images }}/normandie_2/cantinefarfelue.jpg)]({{ site.images }}/normandie_2/cantinefarfelue.jpg)
@@ -48,7 +49,7 @@ Dans cette cantine on s’y sentait bien comme chez des ami(e)s, l’atmosphère
 <div class="post-link">Pour plus d’infos on vous laisse croquer leur page Facebook :</div>
 <div class="post-link"><a href="https://www.facebook.com/Greedy-Guts-213174942043831">https://www.facebook.com/Greedy-Guts-213174942043831</a>/</div>
 
-<br/>Et on a trouvé **« L’Endroit »** parfait pour déjeuner à Honfleur.
+<br/>On a ensuite trouvé **« L’Endroit »** parfait pour déjeuner à Honfleur.
 
 Un restaurant à la décoration contemporaine et chaleureuse. L’oeil est automatiquement attiré par les beaux fauteuils en cuir près de leur mur de vins, mais grosse erreur ! Impossible de se parler ou de piquer dans l’assiette en face tant les tables carrées sont grandes. On va préférer une bonne vieille table classique et tellement plus pratique pour goûter l’assiette de l’autre.
 
