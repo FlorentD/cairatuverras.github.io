@@ -63,7 +63,7 @@ Là encore les produits viennent de producteurs locaux et que ce soit l’entré
 
 [![railroad]({{ site.images }}/normandie_2/legumes.jpg)]({{ site.images }}/normandie_2/legumes.jpg)
 
-<div class="post-link">♪♫Apparemment ils font aussi des soirées jazz le vendredi ♪♫</div>
+<div class="post-link">♪♫Apparemment ils font aussi des soirées jazz le premier vendredi de chaque mois♪♫</div>
 
 <div class="post-link"><a href="http://www.restaurantlendroithonfleur.com">http://www.restaurantlendroithonfleur.com</a></div>
 
