@@ -18,7 +18,7 @@ Au détour d’une minuscule impasse de Caen, la première adresse est une **« 
 
 [![railroad]({{ site.images }}/normandie_2/cantinefarfelue.jpg)]({{ site.images }}/normandie_2/cantinefarfelue.jpg)
 
-En passant par le comptoir, les grandes cuillers aux références cinématographiques DE TRES BON GOÛT ;) jusqu’aux toilettes militantes écolos, on découvre les slogans drôles et engagés de cette cuisine végétarienne et végétalienne.
+En passant par le comptoir, les grandes cuillères aux références cinématographiques DE TRES BON GOÛT ;) jusqu’aux toilettes militantes écolos, on découvre les slogans drôles et engagés de cette cuisine végétarienne et végétalienne.
 
 [![railroad]({{ site.images }}/normandie_2/comptoir-greedy.jpg)]({{ site.images }}/normandie_2/comptoir-greedy.jpg)
 
