@@ -80,7 +80,7 @@ La première dénichée finalement sur Airbnb, une maison atypique qui rentrait 
 
 [![railroad]({{ site.images }}/normandie_1/7_maison_bois.jpg)]({{ site.images }}/normandie_1/7_maison_bois.jpg)
 
-<div class="post-link"><a href="https://www.airbnb.fr/rooms/2008041?s=b8782d7Z">https://augreduvent76.jimdo.com/</a></div>
+https://www.airbnb.fr/rooms/2008041
 
 La seconde surprise se trouvait plus au nord près de Fécamp et on ne tarira pas d’éloges sur l’accueil et la qualité du séjour, aussi court fût-il, dans la maison d’hôtes de Martine et Stéphane. “Au gré du vent”,  leurs chambres à thèmes étaient décorées avec beaucoup de goût et pouvaient accueillir aussi bien une famille, qu’un couple ou une bande d’amis. 
 On vous laisse découvrir leur charmante demeure ….
