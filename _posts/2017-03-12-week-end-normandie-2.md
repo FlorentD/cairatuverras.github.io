@@ -51,7 +51,7 @@ Dans cette cantine on s’y sentait bien comme chez des ami(e)s, l’atmosphère
 
 <br/>On a ensuite trouvé **« L’Endroit »** parfait pour déjeuner à Honfleur.
 
-Un restaurant à la décoration contemporaine et chaleureuse. L’oeil est automatiquement attiré par les beaux fauteuils en cuir près de leur mur de vins, mais grosse erreur ! Impossible de se parler ou de piquer dans l’assiette en face tant les tables carrées sont grandes. On va préférer une bonne vieille table classique et tellement plus pratique pour goûter l’assiette de l’autre.
+Un restaurant à la décoration contemporaine et chaleureuse. L’oeil est automatiquement attiré par les beaux fauteuils en cuir près de leur mur de vins, mais grosse erreur ! Impossible de se parler ou de piquer dans l’assiette en face tant les tables carrées sont grandes. On va préférer une bonne vieille table classique, tellement plus pratique!
 
 [![railroad]({{ site.images }}/normandie_2/fauteuils.jpg)]({{ site.images }}/normandie_2/fauteuils.jpg)
 
@@ -59,7 +59,7 @@ On vous allume une jolie chandelle. On est prévenu qu’il faudra être un peu 
 
 [![railroad]({{ site.images }}/normandie_2/platendroit.jpg)]({{ site.images }}/normandie_2/platendroit.jpg)
 
-Là encore les produits viennent de producteurs locaux et que ce soit l’entrée, le plat ou le vin, c’est un sans faute. Un délice de coquillages dans une sauce qu’on ne laissera pas dans l’assiette, des plats composés de légumes parfaitement cuits et assaisonnés. On peut prendre sans crainte l’assiette de légumes de saison pour (re)découvrir le vrai goût d’une carotte, d’un panais ou de la mâche bien fraîche.
+Là encore les produits viennent de producteurs locaux et que ce soit l’entrée, le plat ou le vin, c’est un sans faute. Un délice de coquillages dans une sauce qu’on ne laissera pas dans l’assiette, des plats composés de légumes et poissons parfaitement cuits et assaisonnés. On peut prendre sans crainte l’assiette de légumes de saison pour (re)découvrir le vrai goût d’une carotte, d’un panais ou de la mâche bien fraîche.
 
 [![railroad]({{ site.images }}/normandie_2/legumes.jpg)]({{ site.images }}/normandie_2/legumes.jpg)
 
@@ -77,4 +77,4 @@ D’autres adresses sympathiques en passant par :
 
 [![railroad]({{ site.images }}/normandie_2/crepe.jpg)]({{ site.images }}/normandie_2/crepe.jpg)
 
-C’est dur de retourner à la cantine du boulot après tout ça !
+Dur de retourner à la cantine du boulot après tout ça !
