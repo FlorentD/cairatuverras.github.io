@@ -17,7 +17,7 @@ Les offres sont assez variées sur internet pour ce type de journée avec les é
 
 [![railroad]({{ site.images }}/thailande_elephants/sieste.jpg)]({{ site.images }}/thailande_elephants/sieste.jpg)
 
-On finit donc par réserver notre journée avec les éléphants. Un trajet d’environ 7h au total : en minibus de Bangkok à Kachanaburi puis le reste en taxi. Pour le retour nous avons testé une option -un peu- plus longue : 200Km de train sur le « Chemin de fer de la mort » et je ne contredirai pas cette dénomination (sueur et fatigue au rendez-vous), mais sans regret pour avoir découvert de jolis paysages de montagnes, une jungle luxuriante, une foule d’individus marquants tout au long du voyage, jusqu’au fameux pont de la rivière Kwaï!
+On finit donc par réserver notre journée avec les éléphants. Un trajet d’environ 7h au total : en minibus de Bangkok à Kachanaburi puis le reste en taxi. Pour le retour, nous avons testé une option -un peu- plus longue : 200Km de train sur le « Chemin de fer de la mort » et je ne contredirai pas cette dénomination (sueur et fatigue au rendez-vous), mais sans regret pour avoir découvert de jolis paysages de montagnes, une jungle luxuriante, une foule d’individus marquants tout au long du voyage, jusqu’au fameux pont de la rivière Kwaï!
 
 [![railroad]({{ site.images }}/thailande_elephants/souriretrain.jpg)]({{ site.images }}/thailande_elephants/souriretrain.jpg)
 
