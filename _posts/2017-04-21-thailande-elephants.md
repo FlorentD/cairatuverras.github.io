@@ -17,7 +17,7 @@ Les offres sont assez variées sur internet pour ce type de journée avec les é
 
 [![railroad]({{ site.images }}/thailande_elephants/sieste.jpg)]({{ site.images }}/thailande_elephants/sieste.jpg)
 
-On finit donc par réserver notre journée avec les éléphants. Un trajet d’environ 7h au total : en minibus de Bangkok à Kachanaburi puis le reste en taxi. Pour le retour nous avons testé une option -un peu- plus longue : 200Km de train sur le « Chemin de fer de la mort » et je ne contredirai pas cette dénomination (sueur et fatigue au rendez-vous) mais sans regret pour avoir découvert de jolis paysages de montagnes, une jungle luxuriante, une foule d’individus marquants tout au long du voyage, jusqu’au fameux pont de la rivière Kwaï!
+On finit donc par réserver notre journée avec les éléphants. Un trajet d’environ 7h au total : en minibus de Bangkok à Kachanaburi puis le reste en taxi. Pour le retour nous avons testé une option -un peu- plus longue : 200Km de train sur le « Chemin de fer de la mort » et je ne contredirai pas cette dénomination (sueur et fatigue au rendez-vous), mais sans regret pour avoir découvert de jolis paysages de montagnes, une jungle luxuriante, une foule d’individus marquants tout au long du voyage, jusqu’au fameux pont de la rivière Kwaï!
 
 [![railroad]({{ site.images }}/thailande_elephants/souriretrain.jpg)]({{ site.images }}/thailande_elephants/souriretrain.jpg)
 
@@ -26,7 +26,7 @@ Notre arrivée était donc tardive dans ce parc où après un dîner assez fruga
 [![railroad]({{ site.images }}/thailande_elephants/modele.jpg)]({{ site.images }}/thailande_elephants/modele.jpg)
 
 6h le lendemain, le barrissement des éléphants nous alerte que la journée va commencer. 
-Réveil immédiat, lumière laissant apparaître le décor que nous ne percevions pas la veille. Un sentiment de calme et de sérénité ambiante régnait. Après le petit-déjeuner des « hommes » c’est au tour des éléphants de commencer leur premier stock de bananes. On les approche doucement, on ose pas trop au début, on a peur de se prendre un coup d’oreille, de trompe ou de se faire écraser par leurs énormes pattes telle une bouillie de banane.
+Réveil immédiat, lumière laissant apparaître le décor que nous ne percevions pas la veille. Un sentiment de calme et de sérénité ambiante régnait. Après le petit-déjeuner des « hommes » c’est au tour des éléphants de commencer leur premier stock de bananes. On les approche doucement, on n'ose pas trop au début, on a peur de se prendre un coup d’oreille, de trompe ou de se faire écraser par leurs énormes pattes telle une bouillie de banane.
 
 [![railroad]({{ site.images }}/thailande_elephants/patte.jpg)]({{ site.images }}/thailande_elephants/patte.jpg)
 
@@ -39,7 +39,7 @@ Une fois les présentations faites avec les éléphantes, les mahouts (guides et
 
 [![railroad]({{ site.images }}/thailande_elephants/butt.jpg)]({{ site.images }}/thailande_elephants/butt.jpg)
 
-Dans l’eau, c’est un spectacle de cirque, ils adorent jouer, éclabousser, s’immerger en nous laissant descendre de leur dos, puis replonger pour nous permettre de remonter et toujours avec une douceur assez étonnante. L’heure du bain terminée on retourne se mettre à l’ombre car la chaleur est accablante. C’est à nouveau l’heure de manger. On leur prépare un régiment de feuilles de bananier et plus tard une mixture composée de farine de manioc, de sel et de riz qu’elles vont engloutir comme des petits bonbons. Leur langue impressionnante n’avalera pas nos mains mais on osera pas s’aventurer trop loin.
+Dans l’eau, c’est un spectacle de cirque, ils adorent jouer, éclabousser, s’immerger en nous laissant descendre de leur dos, puis replonger pour nous permettre de remonter et toujours avec une douceur assez étonnante. L’heure du bain terminée on retourne se mettre à l’ombre car la chaleur est accablante. C’est à nouveau l’heure de manger. On leur prépare un régiment de feuilles de bananier et plus tard une mixture composée de farine de manioc, de sel et de riz qu’elles vont engloutir comme des petits bonbons. Leur langue impressionnante n’avalera pas nos mains mais on n'osera pas s’aventurer trop loin.
 
 [![railroad]({{ site.images }}/thailande_elephants/trompe.jpg)]({{ site.images }}/thailande_elephants/trompe.jpg)
 
