@@ -13,7 +13,7 @@ author: Déborah
 
 [![railroad]({{ site.images }}/thailande_elephants/front.jpg)]({{ site.images }}/thailande_elephants/front.jpg)
 Passer un moment avec cet animal emblématique de Thaïlande était un rêve mais à quelques jours du départ rien n’était gagné pour le réaliser.
-Les offres sont assez variées sur internet pour ce type de journée avec les éléphants, mais plutôt dans le nord du pays. Manque de bol pour notre court séjour, si on ne voulait pas passer trois jours dans les transports il fallait trouver un compromis plus proche tout en préservant l’aspect éthique du parc qui me tenait vraiment à coeur. Par chance, je suis tombée sur le site d’un français amoureux de ces sympathiques pachydermes : <a href="http://www.ganeshapark.com/index.htm">ganeshapark</a>
+Les offres sont assez variées sur internet pour ce type de journée avec les éléphants, mais plutôt dans le nord du pays. Manque de bol pour notre court séjour, si on ne voulait pas passer trois jours dans les transports, il fallait trouver un compromis plus proche tout en préservant l’aspect éthique du parc qui me tenait vraiment à coeur. Par chance, je suis tombée sur le site d’un français amoureux de ces sympathiques pachydermes : <a href="http://www.ganeshapark.com/index.htm">ganeshapark</a> .
 
 [![railroad]({{ site.images }}/thailande_elephants/sieste.jpg)]({{ site.images }}/thailande_elephants/sieste.jpg)
 
