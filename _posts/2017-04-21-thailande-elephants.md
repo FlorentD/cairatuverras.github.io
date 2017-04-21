@@ -46,6 +46,6 @@ Dans l’eau, c’est un spectacle de cirque, ils adorent jouer, éclabousser, s
 L’après-midi accordera à tout le monde du temps pour se reposer durant les heures les plus chaudes, avant de reprendre les mêmes rituels gastronomiques, de promenade et de baignade que le matin.
 
 
-On adopte alors ce nouveau rythme de géant, une lenteur habile, un équilibre heureux qu’il nous faudrait tant imiter dans notre quotidien français.
-
 [![railroad]({{ site.images }}/thailande_elephants/soleilcouchant.jpg)]({{ site.images }}/thailande_elephants/soleilcouchant.jpg)
+
+On adopte alors ce nouveau rythme de géant, une lenteur habile, un équilibre heureux qu’il nous faudrait tant imiter dans notre quotidien français.
