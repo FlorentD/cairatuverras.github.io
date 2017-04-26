@@ -21,7 +21,7 @@ On finit donc par réserver notre journée avec les éléphants. Un trajet d’e
 
 [![railroad]({{ site.images }}/thailande_elephants/souriretrain.jpg)]({{ site.images }}/thailande_elephants/souriretrain.jpg)
 
-Notre arrivée était donc tardive dans ce parc où après un dîner assez frugal et une première rencontre avec les « nouveaux arrivants », nous avons regagné notre chambre sur raft. Arrive ensuite le moment où il faut mettre de côté tout espoir de confort! On oublie les draps blancs immaculés, la douche avec un minimum de pression et on dit bonjour aux scorpions, poissons et arraignées. Après avoir tenté d'identifier les bruits de la nature environnante (grenouilles, chiens, moustiques, sans compter les animaux imaginaires...) on finit par s’endormir dans ces drôles de cabanes sur l’eau.
+Notre arrivée était donc tardive dans ce parc où après un dîner assez frugal et une première rencontre avec les « nouveaux arrivants », nous avons regagné notre chambre sur raft. Arrive ensuite le moment où il faut mettre de côté tout espoir de confort! On oublie les draps blancs immaculés, la douche avec un minimum de pression et on dit bonjour aux scorpions, poissons et araignées. Après avoir tenté d'identifier les bruits de la nature environnante (grenouilles, chiens, moustiques, sans compter les animaux imaginaires...) on finit par s’endormir dans ces drôles de cabanes sur l’eau.
 
 [![railroad]({{ site.images }}/thailande_elephants/modele.jpg)]({{ site.images }}/thailande_elephants/modele.jpg)
 
@@ -39,7 +39,7 @@ Une fois les présentations faites avec les éléphantes, les mahouts (guides et
 
 [![railroad]({{ site.images }}/thailande_elephants/butt.jpg)]({{ site.images }}/thailande_elephants/butt.jpg)
 
-Dans l’eau, c’est un spectacle de cirque, ils adorent jouer, éclabousser, s’immerger en nous laissant descendre de leur dos, puis replonger pour nous permettre de remonter et toujours avec une douceur assez étonnante. L’heure du bain terminée on retourne se mettre à l’ombre car la chaleur est accablante. C’est à nouveau l’heure de manger. On leur prépare un régiment de feuilles de bananier et plus tard une mixture composée de farine de manioc, de sel et de riz qu’elles vont engloutir comme des petits bonbons. Leur langue impressionnante n’avalera pas nos mains mais on n'osera pas s’aventurer trop loin.
+Dans l’eau, c’est un spectacle de cirque, ils adorent jouer, éclabousser, s’immerger en nous laissant descendre de leur dos, puis replonger pour nous permettre de remonter et toujours avec une douceur assez étonnante. L’heure du bain terminée, on retourne se mettre à l’ombre car la chaleur est accablante. C’est à nouveau l’heure de manger. On leur prépare un régiment de feuilles de bananier et plus tard une mixture composée de farine de manioc, de sel et de riz qu’elles vont engloutir comme des petits bonbons. Leur langue impressionnante n’avalera pas nos mains, mais on n'osera pas s’aventurer trop loin.
 
 [![railroad]({{ site.images }}/thailande_elephants/trompe.jpg)]({{ site.images }}/thailande_elephants/trompe.jpg)
 
