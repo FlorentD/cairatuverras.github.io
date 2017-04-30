@@ -17,7 +17,7 @@ Gastronomes que nous sommes, nous avions déjà fait la sélection de nos restau
 
 [![railroad]({{ site.images }}/thailande_food/friture.jpg)]({{ site.images }}/thailande_food/friture.jpg)
 
-Dans le quartier de **Bangkok Noi**, on trouve une multitude de marchés et de vendeurs ambulants prêts à satisfaire les moindres désirs de nos papilles. Le plus gros défi reste de se faire comprendre... (oubliez les questions!). Heureusement notre hôte était là pour nous aiguiller et nous avons pu tester différentes **soupes, brochettes et plats dont le célèbre Pad Thaï**. Un délice !
+Dans le quartier de **Bangkok Noi**, on trouve une multitude de marchés et de vendeurs ambulants prêts à satisfaire les moindres désirs de nos papilles. Le plus gros défi reste de se faire comprendre... (oubliez les questions !). Heureusement, notre hôte était là pour nous aiguiller et nous avons pu tester différentes **soupes, brochettes et plats dont le célèbre Pad Thaï**. Un délice !
 
 [![railroad]({{ site.images }}/thailande_food/polafood.jpg)]({{ site.images }}/thailande_food/polafood.jpg)
 
@@ -25,7 +25,7 @@ La cuisine Thaï est multiple et varie selon les régions. Si à Bangkok elle es
 
 [![railroad]({{ site.images }}/thailande_food/coloredrice.jpg)]({{ site.images }}/thailande_food/coloredrice.jpg)
 
-Pour 1€ une vieille dame nous prépare en 30 secondes une délicieuse soupe qui n’a rien à envier aux bonnes adresses thaï parisiennes. La maîtrise est impressionnante et nous nous sommes pris au jeu de **manger un peu n’importe quand**, sur une table posée à côté de l’assourdissant traffic.
+Pour 40 baths(environ 1€) une vieille dame nous prépare en 30 secondes une délicieuse soupe qui n’a rien à envier aux bonnes adresses thaï parisiennes. La maîtrise est impressionnante et nous nous sommes pris au jeu de **manger un peu n’importe quand**, sur une table posée à côté de l’assourdissant traffic.
 
 [![railroad]({{ site.images }}/thailande_food/fruits.jpg)]({{ site.images }}/thailande_food/fruits.jpg)
 
@@ -41,7 +41,7 @@ Pendant 5 heures, Yaa - notre cheffe - nous a enseigné les bases de la cuisson 
 
 [![railroad]({{ site.images }}/thailande_food/cuistos.jpg)]({{ site.images }}/thailande_food/cuistos.jpg)
 
-**Les fleurs ont joué un rôle indispensable** tant dans la création que dans la décoration de nos plats et ont ajouté une note de romantisme bienvenue. Elles ont plus généralement un rôle important dans la culture thaï et on en trouve partout.
+**Les fleurs ont joué un rôle indispensable** tant dans la création que dans la décoration de nos plats et ont ajouté une note de romantisme bienvenue. Elles ont plus généralement une place important dans la culture thaï et on en trouve partout.
 
 [![railroad]({{ site.images }}/thailande_food/padthai2.jpg)]({{ site.images }}/thailande_food/padthai2.jpg)
 
@@ -53,4 +53,4 @@ Si vous avez l’occasion de séjourner sur **Koh Chang**, nous ne pouvons que v
 
 [![railroad]({{ site.images }}/thailande_food/mortier.jpg)]({{ site.images }}/thailande_food/mortier.jpg)
 
-La cuisine thaï est belle, savoureuse, subtile et sans nul doute très bonne pour la santé, mais pour être tout à fait honnête, nous avons quand même été bien heureux de retrouver notre cuisine française pleine de beurre, de charcuteries et fromages en rentrant ! **On ne se refait pas !**
+La cuisine thaïlandaise est belle, savoureuse, subtile et sans nul doute très bonne pour la santé, mais pour être tout à fait honnête, nous avons quand même été bien heureux de retrouver notre cuisine française pleine de beurre, de charcuteries et fromages en rentrant ! **On ne se refait pas !**
