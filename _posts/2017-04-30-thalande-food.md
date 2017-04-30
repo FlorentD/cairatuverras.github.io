@@ -25,7 +25,7 @@ La cuisine Thaï est multiple et varie selon les régions. Si à Bangkok elle es
 
 [![railroad]({{ site.images }}/thailande_food/coloredrice.jpg)]({{ site.images }}/thailande_food/coloredrice.jpg)
 
-Pour 40 baths(environ 1€) une vieille dame nous prépare en 30 secondes une délicieuse soupe qui n’a rien à envier aux bonnes adresses thaï parisiennes. La maîtrise est impressionnante et nous nous sommes pris au jeu de **manger un peu n’importe quand**, sur une table posée à côté de l’assourdissant traffic.
+Pour 40 baths (environ 1€) une vieille dame nous prépare en 30 secondes une délicieuse soupe qui n’a rien à envier aux bonnes adresses thaï parisiennes. La maîtrise est impressionnante et nous nous sommes pris au jeu de **manger un peu n’importe quand**, sur une table posée à côté de l’assourdissant traffic.
 
 [![railroad]({{ site.images }}/thailande_food/fruits.jpg)]({{ site.images }}/thailande_food/fruits.jpg)
 
@@ -41,7 +41,7 @@ Pendant 5 heures, Yaa - notre cheffe - nous a enseigné les bases de la cuisson 
 
 [![railroad]({{ site.images }}/thailande_food/cuistos.jpg)]({{ site.images }}/thailande_food/cuistos.jpg)
 
-**Les fleurs ont joué un rôle indispensable** tant dans la création que dans la décoration de nos plats et ont ajouté une note de romantisme bienvenue. Elles ont plus généralement une place important dans la culture thaï et on en trouve partout.
+**Les fleurs ont joué un rôle indispensable** tant dans la création que dans la décoration de nos plats et ont ajouté une note de romantisme bienvenue. Elles ont plus généralement une place importante dans la culture thaï et on en trouve partout.
 
 [![railroad]({{ site.images }}/thailande_food/padthai2.jpg)]({{ site.images }}/thailande_food/padthai2.jpg)
 
