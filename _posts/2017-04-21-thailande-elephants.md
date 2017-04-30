@@ -2,7 +2,7 @@
 bg: "thailande_elephants/side.jpg"
 ogImage: "thailande_elephants/front.jpg"
 layout: post
-title: "AU rythme des éléphants"
+title: "Au rythme des éléphants"
 summary: "On ne s'est pas trompés !"
 date:   2017-04-21 20:00:00 +0100
 categories: posts
