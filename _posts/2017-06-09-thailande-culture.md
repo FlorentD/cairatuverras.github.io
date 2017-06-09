@@ -104,6 +104,7 @@ Les trois endroits que nous avons visité lors de cette aventure **- Bangkok , l
 - Ne sous estimez jamais la **pénibilité de 10H d'escale**, allongez de quelques euros votre billet. Pour avoir testé l'aéroport de Bahreïn c'est vraiment pas la folie.
 - Si malgré nos avertissement vous décidez de faire les malins et de tenter ces 10h d'escale au Bahreïn, sachez qu'un **pub** irlandais se cache à l'étage, au bout de l'aéroport et assurera votre survie jusqu'à l'embarquement avec de bonnes bières, des canapés confortables, et des fish and chips.
 
-Sur ce .. เพื่อนลา   À bientôt les amis.
+<p align="center">
+  <b></b>Sur ce .. เพื่อนลา   À bientôt les amis.<br>
 
 
