@@ -37,18 +37,27 @@ Pour sortir de Bangkok et atteindre nos destinations plus lointaines, nous avons
 
 **Les bons (et moins bons) plans :**
 
-Négociez le prix pour les tuk-tuk... mais pas trop!
-Essayez de trouver l’adresse désirée écrite en thaï pour que le chauffeur évite d’aller demander à son pote, à l’autre bout de la ville ce que vous lui montrez sur votre appli de localisation.
-50 baths pour une course de quartier / 150 pour aller plus loin...
-Le taxi nous a bien fait vadrouiller et partagé il ne revient pas trop cher. Ne pas hésiter même pour de longues distances mais fixer le prix dès le début.
-Ne vous laissez pas embarquer par des prétendus guides vous proposant des visites à prix cassé et affirmant qu’un site touristique est fermé -> on a failli faire une "magnifique balade d'une hueure" sur le fleuve alors que le temple nous attendait OUVERT pour une belle fin de journée.
+- Négociez le prix pour les tuk-tuk... mais pas trop!
+- Essayez de trouver l’adresse désirée écrite en thaï pour que le chauffeur évite d’aller demander à son pote, à l’autre bout de la ville ce que vous lui montrez sur votre appli de localisation. **50 baths pour une course de quartier / 150 pour aller plus loin...**
+- Le taxi nous a bien fait vadrouiller et partagé, il ne revient pas trop cher. N'hésitez pas même pour de longues distances mais fixez le prix dès le début.
+**WARNING** Ne vous laissez pas embarquer par des prétendus guides vous proposant des visites à prix cassé et affirmant qu’un site touristique est fermé -> on a failli faire une "magnifique balade d'une heure" sur le fleuve alors que le temple nous attendait OUVERT pour une belle fin de journée.
 
-
-[![railroad]({{ site.images }}/thailande_culture/fleurs_1.jpg)]({{ site.images }}/thailande_culture/fleurs.jpg)
-
-Pour sortir de Bangkok et atteindre nos destinations plus lointaines, nous avons partagé le **taxi** et le **train**, on vous en parlait dans le premier article.
- 
 [![railroad]({{ site.images }}/thailande_culture/fleurs_2.jpg)]({{ site.images }}/thailande_culture/fleurs_2.jpg)
+
+Nous avons donc lâché les transports pour nous consacrer pleinement à des **connexions plus philosophiques.**
+La place de la religion est ici très forte. Il n'est pas rare de trouver une pièce dédié à un dieu dans une maison Thaïlandaise et les temples inondes les villes et villages du pays avec leurs belles couleurs et leurs mille statues
+
+[![railroad]({{ site.images }}/thailande_culture/religion_2.jpg)]({{ site.images }}/thailande_culture/religion_2.jpg)
+[![railroad]({{ site.images }}/thailande_culture/religion_3.jpg)]({{ site.images }}/thailande_culture/religion_3.jpg)
+[![railroad]({{ site.images }}/thailande_culture/religion_4.jpg)]({{ site.images }}/thailande_culture/religion_4.jpg)
+
+Quand nous avons fait ce voyage, le roi de Thaïlande était mort depuis quelques mois déjà mais des messages en son honneur inondaient littérallement le paysage. Rama IX (c'était son nom) est considéré comme un demi-dieu pouvant faire tomber la pluie pour sauver son peuple de la sècheresse. la figure royale fait partie des fondations du roman national Thäilandais. Il ne faut pas oublier que ce pays est dirigé par un régime militaire depuis fin 2016. Le nouveau roi (Rama X) n'a pas l'air d'avoir encore les faveurs du peuple mais le critiquer ouvertement est considiré comme un acte de trahison ! La liberté de parole a pris un sens.
+
+[![railroad]({{ site.images }}/thailande_culture/politique_1.jpg)]({{ site.images }}/thailande_culture/politique_1.jpg)
+
+
+ 
+[![railroad]({{ site.images }}/thailande_culture/fleurs_1.jpg)]({{ site.images }}/thailande_culture/fleurs.jpg)
  
  Le transfert entre les différentes bulles d’espaces climatisés s’était plutôt bien passé, mais une fois sortis du taxi, le terme «CHALEUR » prenait un sens bien différent. La chape de plomb s’abattait sur notre corps et lutter à coup de douches était bien inutile, seule solution pour ces dix jours : il fallait s’y faire !
  
@@ -75,16 +84,7 @@ Autre choc culturel auquel on est vite confronté : la langue thaï et l’alph
 [![railroad]({{ site.images }}/thailande_culture/religion_1.jpg)]({{ site.images }}/thailande_culture/religion_1.jpg)
 [![railroad]({{ site.images }}/thailande_culture/sourire_1.jpg)]({{ site.images }}/thailande_culture/sourire_1.jpg)
 
-La place de la religion est ici très forte. Il n'est pas rare de trouver une pièce dédié à un dieu dans une maison Thaïlandaise et les temples inondes les villes et villages du pays avec leurs belles couleurs et leurs mille statues
 
-[![railroad]({{ site.images }}/thailande_culture/religion_2.jpg)]({{ site.images }}/thailande_culture/religion_2.jpg)
-[![railroad]({{ site.images }}/thailande_culture/religion_3.jpg)]({{ site.images }}/thailande_culture/religion_3.jpg)
-[![railroad]({{ site.images }}/thailande_culture/religion_4.jpg)]({{ site.images }}/thailande_culture/religion_4.jpg)
-
-Quand nous avons fait ce voyage, le roi de Thaïlande était mort depuis quelques mois déjà mais des messages en son honneur inondaient littérallement le paysage. Rama IX (c'était son nom) est considéré comme un demi-dieu pouvant faire tomber la pluie pour sauver son peuple de la sècheresse. la figure royale fait partie des fondations du roman national Thäilandais. Il ne faut pas oublier que ce pays est dirigé par un régime militaire depuis fin 2016. Le nouveau roi (Rama X) n'a pas l'air d'avoir encore les faveurs du peuple mais le critiquer ouvertement est considiré comme un acte de trahison ! La liberté de parole a pris un sens.
-
-[![railroad]({{ site.images }}/thailande_culture/politique_1.jpg)]({{ site.images }}/thailande_culture/politique_1.jpg)
- 
  
 
 
