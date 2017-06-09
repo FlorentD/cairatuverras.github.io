@@ -74,7 +74,11 @@ Parfois tout ce qui nous reste après avoir tenté par tout les moyens de demand
 
 [![railroad]({{ site.images }}/thailande_culture/sourire_1.jpg)]({{ site.images }}/thailande_culture/sourire_1.jpg)
 
-Lors de ce voyage le terme **«CHALEUR»** a certainement pris tout son sens. La chape de plomb s'abattait sur notre corps et lutter à coup de douches était bien inutile. Les 37°C de la journée se transformaient en 27°C la nuit, on respirait déjà un peu mieux. On a aussi apprécié davantage l’air plus frais de la campagne après quelques jours de pollution pesante en ville.
+Lors de ce voyage le terme **«CHALEUR»** a certainement pris tout son sens. La chape de plomb s'abattait sur notre corps et lutter à coup de douches était bien inutile. 
+
+[![railroad]({{ site.images }}/thailande_culture/nature_3.jpg)]({{ site.images }}/thailande_culture/nature_3.jpg)
+
+Les 37°C de la journée se transformaient en 27°C la nuit, on respirait déjà un peu mieux. On a aussi apprécié davantage l’air plus frais de la campagne après quelques jours de pollution pesante en ville.
 
 [![railroad]({{ site.images }}/thailande_culture/ville_3.jpg)]({{ site.images }}/thailande_culture/ville_3.jpg)
 
@@ -90,7 +94,7 @@ Les trois endroits que nous avons visité lors de cette aventure **- Bangkok , l
 
 [![railroad]({{ site.images }}/thailande_culture/nature_2.jpg)]({{ site.images }}/thailande_culture/nature_2.jpg)
 [![railroad]({{ site.images }}/thailande_culture/nature_5.jpg)]({{ site.images }}/thailande_culture/nature_5.jpg)
-[![railroad]({{ site.images }}/thailande_culture/nature_3.jpg)]({{ site.images }}/thailande_culture/nature_3.jpg)
+
 
 
  
