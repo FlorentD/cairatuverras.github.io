@@ -97,5 +97,13 @@ Les trois endroits que nous avons visité lors de cette aventure **- Bangkok , l
 
  
 
+**Derniers bons plans** si on a réussi à vous convaincre d'y aller:
+
+- Retirez en une fois la somme que vous prévoyez pour le voyage car les frais des DAB sont assez élevés.
+- Les distances ne sont pas négligeables pour parcourir un tel pays -> prévoyez 10/15 jours sur place minimum. (oui on sait c'est facile pour les profs !)
+- Ne sousestimez jamais la pénibilité de 10H d'escale, allongez de quelques euros votre billet. Pour avoir testé l'aéroport de Bahreïn c'est vraiment pas la folie.
+- Si malgré nos avertissement vous décidez de faire les malins et de tenter ces 10h d'escale au Barheïn, sachez qu'un pub irlandais se cache à l'étage, au bout de l'aéroport et assurera votre survie jusqu'à l'embarquement avec de bonnes bières, des canapés confortables, et des fish and chips.
+
+Sur ce .. เพื่อนลา   A bientôt les amis.
 
 
