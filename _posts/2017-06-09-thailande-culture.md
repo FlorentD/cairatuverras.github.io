@@ -23,7 +23,7 @@ Après avoir tenté toutes les positions possibles du Buddha pour s’installer 
 
 [![railroad]({{ site.images }}/thailande_culture/ville_2.jpg)]({{ site.images }}/thailande_culture/ville_2.jpg)
 
-Dans ce quartier de Bangkok Noi justement on a vite compris qu’il fallait changer de mode de déplacement et nous sommes donc passés aux **tuk-tuks, mobilettes et autres scooters** qui vous font réaliser qu’au moindre coup de freins mal placé, vos jambes seront bonnes pour des raviolis frits en bord de route. 
+Dans ce quartier de Bangkok Noi justement on a vite compris qu’il fallait changer de mode de déplacement et nous sommes donc passés aux **tuk-tuk, mobilettes et autres scooters** qui vous font réaliser qu’au moindre coup de freins mal placé, vos jambes seront bonnes pour des raviolis frits en bord de route. 
 
 [![railroad]({{ site.images }}/thailande_culture/transport_2.jpg)]({{ site.images }}/thailande_culture/transport_2.jpg)
 
