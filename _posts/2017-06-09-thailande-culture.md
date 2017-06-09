@@ -50,7 +50,7 @@ Nous avons donc lâché les transports pour nous consacrer à des **connexions p
 
 [![railroad]({{ site.images }}/thailande_culture/religion_3.jpg)]({{ site.images }}/thailande_culture/religion_3.jpg)
 
-La place de la religion est ici très forte. Il n'est pas rare de trouver une pièce dédiée à un dieu dans une maison Thaïlandaise et les temples inondent les villes et villages du pays de leurs belles couleurs et leurs mille statues
+La place de la religion est ici très forte. Il n'est pas rare de trouver une pièce dédiée à un dieu dans une maison Thaïlandaise et les **temples** inondent les villes et villages du pays de leurs belles couleurs et leurs mille statues
 
 [![railroad]({{ site.images }}/thailande_culture/religion_4.jpg)]({{ site.images }}/thailande_culture/religion_4.jpg)
 
@@ -58,7 +58,7 @@ Quand nous avons fait ce voyage, le roi de Thaïlande était mort depuis quelque
 
 [![railroad]({{ site.images }}/thailande_culture/religion_2.jpg)]({{ site.images }}/thailande_culture/religion_2.jpg)
 
-La figure royale fait partie des fondations du roman national Thäilandais. Il ne faut pas oublier que ce pays est dirigé par un régime militaire depuis fin 2016. Le nouveau roi (Rama X) n'a pas l'air d'avoir encore les faveurs du peuple mais le critiquer ouvertement est considiré comme un acte de trahison ! La liberté de parole a pris un sens.
+La figure royale fait partie des fondations du roman national Thäilandais. Il ne faut pas oublier que ce pays est dirigé par un régime militaire depuis fin 2016. Le nouveau roi (Rama X) n'a pas l'air d'avoir encore les faveurs du peuple mais le critiquer ouvertement est considiré comme un acte de trahison ! **La liberté de parole a pris un sens.**
 
 [![railroad]({{ site.images }}/thailande_culture/politique_1.jpg)]({{ site.images }}/thailande_culture/politique_1.jpg)
 
@@ -99,11 +99,11 @@ Les trois endroits que nous avons visité lors de cette aventure **- Bangkok , l
 
 **Derniers bons plans** si on a réussi à vous convaincre d'aller visiter la Thaïlande :
 
-- Retirez en une fois la somme que vous prévoyez pour le voyage car les frais des DAB sont assez élevés.
-- Les distances ne sont pas négligeables pour parcourir un tel pays -> prévoyez 10/15 jours sur place minimum. (oui on sait c'est facile pour les profs !)
-- Ne sousestimez jamais la pénibilité de 10H d'escale, allongez de quelques euros votre billet. Pour avoir testé l'aéroport de Bahreïn c'est vraiment pas la folie.
-- Si malgré nos avertissement vous décidez de faire les malins et de tenter ces 10h d'escale au Barheïn, sachez qu'un pub irlandais se cache à l'étage, au bout de l'aéroport et assurera votre survie jusqu'à l'embarquement avec de bonnes bières, des canapés confortables, et des fish and chips.
+- Retirez **en une fois** la somme que vous prévoyez pour le voyage car les frais des DAB sont assez élevés.
+- **Les distances** ne sont pas négligeables pour parcourir un tel pays -> prévoyez 10/15 jours sur place minimum. (oui on sait c'est facile pour les profs !)
+- Ne sousestimez jamais la **pénibilité de 10H d'escale**, allongez de quelques euros votre billet. Pour avoir testé l'aéroport de Bahreïn c'est vraiment pas la folie.
+- Si malgré nos avertissement vous décidez de faire les malins et de tenter ces 10h d'escale au Bahreïn, sachez qu'un **pub** irlandais se cache à l'étage, au bout de l'aéroport et assurera votre survie jusqu'à l'embarquement avec de bonnes bières, des canapés confortables, et des fish and chips.
 
-Sur ce .. เพื่อนลา   A bientôt les amis.
+Sur ce .. เพื่อนลา   À bientôt les amis.
 
 
