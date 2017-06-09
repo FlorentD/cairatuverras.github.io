@@ -15,11 +15,11 @@ Avec quelques semaines de recul on se rappelle avec nostalgie de tous ces bons m
 
 [![railroad]({{ site.images }}/thailande_culture/ville_1.jpg)]({{ site.images }}/thailande_culture/ville_1.jpg)
 
-Partir en voyage dans un pays aussi lointain c’est cependant accepter **le changement, l’étonnement, l’ouverture d’esprit et de culture.** On met de côté, son petit confort « européen », son portable, ses habitudes et Hop ! On vient s’ouvrir à d’autres connexions.
+Partir en voyage dans un pays aussi lointain c’est accepter **le changement, l’étonnement, l’ouverture d’esprit et de culture.** On met de côté, son petit confort « européen », son portable, ses habitudes et Hop ! On vient s’ouvrir à d’autres connexions.
 
 [![railroad]({{ site.images }}/thailande_culture/transport_1.jpg)]({{ site.images }}/thailande_culture/transport_1.jpg)
 
-Après avoir tenté toutes les positions possibles du Buddha pour s’installer confortablement dans **l’avion** et sans jamais y parvenir vraiment, on était bien soulagé d’arriver à l’aéroport de Bangkok. On a donc enchaîné la tête un peu dans le guidon avec le **taxi** ultra-climatisé. Se frayant un chemin entre les bouchons inévitables de Bangkok il nous dépose heureusement à bon port, dans un  quartier peu pratique pour les voitures mais bien plus typique et authentique que le pied d’un hôtel du centre ville.
+Après avoir tenté toutes les positions possibles du Buddha pour s’installer confortablement dans **l’avion** et sans jamais y parvenir vraiment, on était bien soulagé d’arriver à l’aéroport de Bangkok. On a donc enchaîné la tête un peu dans le guidon avec le **taxi** ultra-climatisé. Se frayant un chemin entre les bouchons inévitables de la ville, il nous dépose à bon port, dans un quartier peu pratique pour les voitures mais bien plus typique et authentique que le pied d’un hôtel du centre ville.
 
 [![railroad]({{ site.images }}/thailande_culture/ville_2.jpg)]({{ site.images }}/thailande_culture/ville_2.jpg)
 
@@ -27,7 +27,7 @@ Dans ce quartier de Bangkok Noi justement on a vite compris qu’il fallait chan
 
 [![railroad]({{ site.images }}/thailande_culture/transport_2.jpg)]({{ site.images }}/thailande_culture/transport_2.jpg)
 
-Si l’on oublie les nombreuses frayeurs dans la folle circulation de la ville, on apprécie tout de même ce sentiment de liberté et de facilité à passer d’un endroit à l’autre en pouvant observer toute la vie urbaine qui se déroule tranquillement, un léger vent dans la nuque … ce n’était pas du luxe.
+Si l’on oublie les nombreuses **frayeurs** dans la folle circulation de la ville, on apprécie tout de même ce sentiment de **liberté et de facilité** à passer d’un endroit à l’autre en pouvant observer toute la vie urbaine qui se déroule tranquillement, un léger vent dans la nuque … ce n’était pas du luxe.
 
 [![railroad]({{ site.images }}/thailande_culture/transport_4.jpg)]({{ site.images }}/thailande_culture/transport_4.jpg)
 
@@ -38,17 +38,19 @@ Pour sortir de Bangkok et atteindre nos destinations plus lointaines, nous avons
 **Les bons (et moins bons) plans :**
 
 - Négociez le prix pour les tuk-tuk... mais pas trop!
-- Essayez de trouver l’adresse désirée écrite en thaï pour que le chauffeur évite d’aller demander à son pote, à l’autre bout de la ville ce que vous lui montrez sur votre appli de localisation. **50 baths pour une course de quartier / 150 pour aller plus loin...**
+- Essayez de trouver l’adresse désirée écrite en thaï pour que le chauffeur évite d’aller demander à son pote, à l’autre bout de la ville ce que vous lui montrez sur votre appli de localisation.
+**50 baths pour une course de quartier / 150 pour aller plus loin...**
 - Le taxi nous a bien fait vadrouiller et partagé, il ne revient pas trop cher. N'hésitez pas même pour de longues distances mais fixez le prix dès le début.
+
 **WARNING** Ne vous laissez pas embarquer par des prétendus guides vous proposant des visites à prix cassé et affirmant qu’un site touristique est fermé -> on a failli faire une "magnifique balade d'une heure" sur le fleuve alors que le temple nous attendait OUVERT pour une belle fin de journée.
 
 [![railroad]({{ site.images }}/thailande_culture/fleurs_2.jpg)]({{ site.images }}/thailande_culture/fleurs_2.jpg)
 
-Nous avons donc lâché les transports pour nous consacrer pleinement à des **connexions plus spirituelles.**
+Nous avons donc lâché les transports pour nous consacrer à des **connexions plus spirituelles.**
 
 [![railroad]({{ site.images }}/thailande_culture/religion_3.jpg)]({{ site.images }}/thailande_culture/religion_3.jpg)
 
-La place de la religion est ici très forte. Il n'est pas rare de trouver une pièce dédiée à un dieu dans une maison Thaïlandaise et les temples inondent les villes et villages du pays avec leurs belles couleurs et leurs mille statues
+La place de la religion est ici très forte. Il n'est pas rare de trouver une pièce dédiée à un dieu dans une maison Thaïlandaise et les temples inondent les villes et villages du pays de leurs belles couleurs et leurs mille statues
 
 [![railroad]({{ site.images }}/thailande_culture/religion_4.jpg)]({{ site.images }}/thailande_culture/religion_4.jpg)
 
@@ -60,24 +62,24 @@ La figure royale fait partie des fondations du roman national Thäilandais. Il n
 
 [![railroad]({{ site.images }}/thailande_culture/politique_1.jpg)]({{ site.images }}/thailande_culture/politique_1.jpg)
 
-La parole du coup, on ne la prenait pas souvent mais pour d'autres raisons. La langue thaï et l’alphabet qui ressemble à ça : **สวัสดีค่ะ  (bonjour)** ne nous permettaient pas vraiment - même avec la meilleure volonté du monde - de dire plus que merci aux personnes que nous croisions. En 10 jours, on a tout simplement tenté de se débrouiller avec notre langage des signes « assez personnel ». 
+La parole du coup, on ne la prenait pas souvent mais pour d'autres raisons. La langue thaï pleine d'intonations (très subtiles pour nos oreilles) et l’alphabet qui ressemble à ça : **สวัสดีค่ะ  (bonjour)** ne nous permettaient pas vraiment - même avec la meilleure volonté du monde - de dire plus que "merci" aux personnes que nous croisions. En 10 jours, on a tout simplement tenté de se débrouiller avec notre langage des signes « assez personnel ». 
 
-[![railroad]({{ site.images }}/thailande_culture/fleurs_1.jpg)]({{ site.images }}/thailande_culture/fleurs.jpg)
+[![railroad]({{ site.images }}/thailande_culture/religion_1.jpg)]({{ site.images }}/thailande_culture/religion_1.jpg)
 
 Pour le reste on était bien chanceux d’avoir notre interprète locale, notre jolie Phi, pour nous aider à communiquer, comprendre ces signes inconnus et quelques bribes de culture Thaï. 
 
-[![railroad]({{ site.images }}/thailande_culture/religion_1.jpg)]({{ site.images }}/thailande_culture/religion_1.jpg)
+[![railroad]({{ site.images }}/thailande_culture/fleurs_1.jpg)]({{ site.images }}/thailande_culture/fleurs.jpg)
 
 Parfois tout ce qui nous reste après avoir tenté par tout les moyens de demander une direction, un prix ou la contenance d’une bouteille au jus suspect… c’est le sourire.  (Hé oui, eux savaient ce que contenaient ces fameuses bouteilles de jus rouge!)
 
 [![railroad]({{ site.images }}/thailande_culture/sourire_1.jpg)]({{ site.images }}/thailande_culture/sourire_1.jpg)
 
-Lors de ce voyage le terme «CHALEUR » a certainement pris tout son sens. La chape de plomb s'abattait sur notre corps et lutter à coup de douches était bien inutile. La nuit nous laissait un peu respirer ou juste ne plus coller passant de 37°C 
+Lors de ce voyage le terme **«CHALEUR»** a certainement pris tout son sens. La chape de plomb s'abattait sur notre corps et lutter à coup de douches était bien inutile. Le 37°C de la journée se transformaient en 27°C la nuit.
 
- 
- La vie nocturne nous attendait tantôt insomniaque et électrique à Bangkok tantôt calme et idyllique sur l’île de Koh Chang.
-  
 [![railroad]({{ site.images }}/thailande_culture/ville_3.jpg)]({{ site.images }}/thailande_culture/ville_3.jpg)
+
+La vie nocturne nous attendait tantôt insomniaque et électrique à Bangkok tantôt calme et idyllique sur l’île de Koh Chang.
+  
 [![railroad]({{ site.images }}/thailande_culture/ville_4.jpg)]({{ site.images }}/thailande_culture/ville_4.jpg)
 
 Les trois endroits que nous avons visités : Bangkok , la province de Kanshanaburi et Koh Chang 
@@ -92,7 +94,6 @@ On a aussi apprécié davantage l’air plus frais de la campagne après quelque
 [![railroad]({{ site.images }}/thailande_culture/nature_5.jpg)]({{ site.images }}/thailande_culture/nature_5.jpg)
 [![railroad]({{ site.images }}/thailande_culture/nature_3.jpg)]({{ site.images }}/thailande_culture/nature_3.jpg)
 
-Autre choc culturel auquel on est vite confronté 
 
  
 
