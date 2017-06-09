@@ -97,7 +97,7 @@ Les trois endroits que nous avons visité lors de cette aventure **- Bangkok , l
 
  
 
-**Derniers bons plans** si on a réussi à vous convaincre d'y aller:
+**Derniers bons plans** si on a réussi à vous convaincre d'aller visiter la Thaïlande :
 
 - Retirez en une fois la somme que vous prévoyez pour le voyage car les frais des DAB sont assez élevés.
 - Les distances ne sont pas négligeables pour parcourir un tel pays -> prévoyez 10/15 jours sur place minimum. (oui on sait c'est facile pour les profs !)
