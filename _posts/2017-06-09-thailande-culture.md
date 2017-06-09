@@ -52,7 +52,7 @@ La place de la religion est ici très forte. Il n'est pas rare de trouver une pi
 
 [![railroad]({{ site.images }}/thailande_culture/religion_4.jpg)]({{ site.images }}/thailande_culture/religion_4.jpg)
 
-Quand nous avons fait ce voyage, le roi de Thaïlande était mort depuis quelques mois déjà mais des messages en son honneur inondaient littérallement le paysage. Rama IX (c'était son nom) est considéré comme un demi-dieu pouvant faire tomber la pluie pour sauver son peuple de la sècheresse.
+Quand nous avons fait ce voyage, le roi de Thaïlande était mort depuis quelques mois déjà mais des messages en son honneur inondaient littérallement le paysage. **Rama IX** (c'était son nom) est considéré comme un demi-dieu pouvant faire tomber la pluie pour sauver son peuple de la sècheresse.
 
 [![railroad]({{ site.images }}/thailande_culture/religion_2.jpg)]({{ site.images }}/thailande_culture/religion_2.jpg)
 
@@ -60,14 +60,22 @@ La figure royale fait partie des fondations du roman national Thäilandais. Il n
 
 [![railroad]({{ site.images }}/thailande_culture/politique_1.jpg)]({{ site.images }}/thailande_culture/politique_1.jpg)
 
+La parole du coup, on ne la prenait pas souvent mais pour d'autres raisons. La langue thaï et l’alphabet qui ressemble à ça : **สวัสดีค่ะ  (bonjour)** ne nous permettaient pas vraiment - même avec la meilleure volonté du monde - de dire plus que merci aux personnes que nous croisions. En 10 jours, on a tout simplement tenté de se débrouiller avec notre langage des signes « assez personnel ». 
+
+[![railroad]({{ site.images }}/thailande_culture/fleurs_1.jpg)]({{ site.images }}/thailande_culture/fleurs.jpg)
+
+Pour le reste on était bien chanceux d’avoir notre interprète locale, notre jolie Phi, pour nous aider à communiquer, comprendre ces signes inconnus et quelques bribes de culture Thaï. 
+
+[![railroad]({{ site.images }}/thailande_culture/religion_1.jpg)]({{ site.images }}/thailande_culture/religion_1.jpg)
+
+Parfois tout ce qui nous reste après avoir tenté par tout les moyens de demander une direction, un prix ou la contenance d’une bouteille au jus suspect… c’est le sourire.  (Hé oui, eux savaient ce que contenaient ces fameuses bouteilles de jus rouge!)
+
+[![railroad]({{ site.images }}/thailande_culture/sourire_1.jpg)]({{ site.images }}/thailande_culture/sourire_1.jpg)
+
+Lors de ce voyage le terme «CHALEUR » a certainement pris tout son sens. La chape de plomb s'abattait sur notre corps et lutter à coup de douches était bien inutile. La nuit nous laissait un peu respirer ou juste ne plus coller passant de 37°C 
 
  
-[![railroad]({{ site.images }}/thailande_culture/fleurs_1.jpg)]({{ site.images }}/thailande_culture/fleurs.jpg)
- 
- Le transfert entre les différentes bulles d’espaces climatisés s’était plutôt bien passé, mais une fois sortis du taxi, le terme «CHALEUR » prenait un sens bien différent. La chape de plomb s’abattait sur notre corps et lutter à coup de douches était bien inutile, seule solution pour ces dix jours : il fallait s’y faire !
- 
- 
- Les journées s’adaptaient à ce paramètre non négligeable et nous respirions bien mieux dès que les rayons du soleil commençaient à décliner. Cette descente de chaleur salvatrice nous redonnait l’énergie perdue durant la journée et la vie nocturne nous attendait tantôt insomniaque et électrique à Bangkok tantôt calme et idyllique sur l’île de Koh Chang.
+ La vie nocturne nous attendait tantôt insomniaque et électrique à Bangkok tantôt calme et idyllique sur l’île de Koh Chang.
   
 [![railroad]({{ site.images }}/thailande_culture/ville_3.jpg)]({{ site.images }}/thailande_culture/ville_3.jpg)
 [![railroad]({{ site.images }}/thailande_culture/ville_4.jpg)]({{ site.images }}/thailande_culture/ville_4.jpg)
@@ -84,11 +92,7 @@ On a aussi apprécié davantage l’air plus frais de la campagne après quelque
 [![railroad]({{ site.images }}/thailande_culture/nature_5.jpg)]({{ site.images }}/thailande_culture/nature_5.jpg)
 [![railroad]({{ site.images }}/thailande_culture/nature_3.jpg)]({{ site.images }}/thailande_culture/nature_3.jpg)
 
-Autre choc culturel auquel on est vite confronté : la langue thaï et l’alphabet qui ressemble à ça : สวัสดีค่ะ  (bonjour) donc même avec toute la bonne volonté du monde.. en 10 jours on tente tout simplement de se débrouiller avec les quelques lieux touristiques où l’anglais est baragouiné et notre langage des signes « assez personnel ». Pour le reste on était bien chanceux d’avoir notre interprète locale, notre jolie Phi, pour nous aider à communiquer, comprendre ces signes inconnus et quelques bribes de culture Thaï. Parfois tout ce qui nous reste après avoir tenté par tout les moyens de demander une direction, un prix ou la contenance d’une bouteille au jus suspect… c’est le sourire.
-
-[![railroad]({{ site.images }}/thailande_culture/religion_1.jpg)]({{ site.images }}/thailande_culture/religion_1.jpg)
-[![railroad]({{ site.images }}/thailande_culture/sourire_1.jpg)]({{ site.images }}/thailande_culture/sourire_1.jpg)
-
+Autre choc culturel auquel on est vite confronté 
 
  
 
