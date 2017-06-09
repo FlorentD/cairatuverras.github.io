@@ -29,11 +29,11 @@ Dans ce quartier de Bangkok Noi justement on a vite compris qu’il fallait chan
 
 Si l’on oublie les nombreuses frayeurs dans la folle circulation de la ville, on apprécie tout de même ce sentiment de liberté et de facilité à passer d’un endroit à l’autre en pouvant observer toute la vie urbaine qui se déroule tranquillement, un léger vent dans la nuque … ce n’était pas du luxe.
 
-[![railroad]({{ site.images }}/thailande_culture/transport_3.jpg)]({{ site.images }}/thailande_culture/transport_3.jpg)
+[![railroad]({{ site.images }}/thailande_culture/transport_4.jpg)]({{ site.images }}/thailande_culture/transport_4.jpg)
 
 Pour sortir de Bangkok et atteindre nos destinations plus lointaines, nous avons partagé **le taxi et le train**, on vous en parlait dans le premier article. 
 
-[![railroad]({{ site.images }}/thailande_culture/transport_4.jpg)]({{ site.images }}/thailande_culture/transport_4.jpg)
+[![railroad]({{ site.images }}/thailande_culture/transport_3.jpg)]({{ site.images }}/thailande_culture/transport_3.jpg)
 
 **Les bons (et moins bons) plans :**
 
