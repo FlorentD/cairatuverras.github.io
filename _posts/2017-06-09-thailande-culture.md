@@ -1,5 +1,5 @@
 ---
-bg: "thailande_culture/side.jpg"
+bg: "thailande_culture/nature_1.jpg"
 ogImage: "thailande_culture/head.jpg"
 layout: post
 title: "Thaïlande connexion"
@@ -64,6 +64,7 @@ La figure royale fait partie des fondations du roman national Thäilandais. Il n
 
 La parole du coup, on ne la prenait pas souvent mais pour d'autres raisons. La langue thaï pleine d'intonations (très subtiles pour nos oreilles) et l’alphabet qui ressemble à ça : **สวัสดีค่ะ  (bonjour)** ne nous permettaient pas vraiment - même avec la meilleure volonté du monde - de dire plus que "merci" aux personnes que nous croisions. En 10 jours, on a tout simplement tenté de se débrouiller avec notre langage des signes « assez personnel ». 
 
+[![railroad]({{ site.images }}/thailande_culture/side.jpg)]({{ site.images }}/thailande_culture/side.jpg)
 [![railroad]({{ site.images }}/thailande_culture/religion_1.jpg)]({{ site.images }}/thailande_culture/religion_1.jpg)
 
 Pour le reste on était bien chanceux d’avoir notre interprète locale, notre jolie Phi, pour nous aider à communiquer, comprendre ces signes inconnus et quelques bribes de culture Thaï. 
@@ -87,15 +88,11 @@ La vie nocturne nous attendait tantôt insomniaque et électrique à Bangkok tan
 [![railroad]({{ site.images }}/thailande_culture/nature_2.jpg)]({{ site.images }}/thailande_culture/nature_2.jpg)
 
 Les trois endroits que nous avons visité lors de cette aventure **- Bangkok , la province de Kanshanaburi et Koh Chang -** nous ont finalement offert des natures hétéroclites et des panoramas assez variés de ce beau pays. Nous sommes passés de la fourmilière de la mégalopole au calme de la jungle puis des plages. On a troqué la vue sur les gratte-ciels contre des cocotiers et des couchers de soleils à vous couper le souffle.
+
 [![railroad]({{ site.images }}/thailande_culture/ville_3.jpg)]({{ site.images }}/thailande_culture/ville_3.jpg)
-
-
 [![railroad]({{ site.images }}/thailande_culture/nature_5.jpg)]({{ site.images }}/thailande_culture/nature_5.jpg)
-
-
 [![railroad]({{ site.images }}/thailande_culture/nature_4.jpg)]({{ site.images }}/thailande_culture/nature_4.jpg)
 
- 
 
 **Derniers bons plans** si on a réussi à vous convaincre d'aller visiter la Thaïlande :
 
