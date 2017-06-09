@@ -44,14 +44,19 @@ Pour sortir de Bangkok et atteindre nos destinations plus lointaines, nous avons
 
 [![railroad]({{ site.images }}/thailande_culture/fleurs_2.jpg)]({{ site.images }}/thailande_culture/fleurs_2.jpg)
 
-Nous avons donc lâché les transports pour nous consacrer pleinement à des **connexions plus philosophiques.**
-La place de la religion est ici très forte. Il n'est pas rare de trouver une pièce dédié à un dieu dans une maison Thaïlandaise et les temples inondes les villes et villages du pays avec leurs belles couleurs et leurs mille statues
+Nous avons donc lâché les transports pour nous consacrer pleinement à des **connexions plus spirituelles.**
 
-[![railroad]({{ site.images }}/thailande_culture/religion_2.jpg)]({{ site.images }}/thailande_culture/religion_2.jpg)
 [![railroad]({{ site.images }}/thailande_culture/religion_3.jpg)]({{ site.images }}/thailande_culture/religion_3.jpg)
+
+La place de la religion est ici très forte. Il n'est pas rare de trouver une pièce dédiée à un dieu dans une maison Thaïlandaise et les temples inondent les villes et villages du pays avec leurs belles couleurs et leurs mille statues
+
 [![railroad]({{ site.images }}/thailande_culture/religion_4.jpg)]({{ site.images }}/thailande_culture/religion_4.jpg)
 
-Quand nous avons fait ce voyage, le roi de Thaïlande était mort depuis quelques mois déjà mais des messages en son honneur inondaient littérallement le paysage. Rama IX (c'était son nom) est considéré comme un demi-dieu pouvant faire tomber la pluie pour sauver son peuple de la sècheresse. la figure royale fait partie des fondations du roman national Thäilandais. Il ne faut pas oublier que ce pays est dirigé par un régime militaire depuis fin 2016. Le nouveau roi (Rama X) n'a pas l'air d'avoir encore les faveurs du peuple mais le critiquer ouvertement est considiré comme un acte de trahison ! La liberté de parole a pris un sens.
+Quand nous avons fait ce voyage, le roi de Thaïlande était mort depuis quelques mois déjà mais des messages en son honneur inondaient littérallement le paysage. Rama IX (c'était son nom) est considéré comme un demi-dieu pouvant faire tomber la pluie pour sauver son peuple de la sècheresse.
+
+[![railroad]({{ site.images }}/thailande_culture/religion_2.jpg)]({{ site.images }}/thailande_culture/religion_2.jpg)
+
+La figure royale fait partie des fondations du roman national Thäilandais. Il ne faut pas oublier que ce pays est dirigé par un régime militaire depuis fin 2016. Le nouveau roi (Rama X) n'a pas l'air d'avoir encore les faveurs du peuple mais le critiquer ouvertement est considiré comme un acte de trahison ! La liberté de parole a pris un sens.
 
 [![railroad]({{ site.images }}/thailande_culture/politique_1.jpg)]({{ site.images }}/thailande_culture/politique_1.jpg)
 
