@@ -88,12 +88,12 @@ La vie nocturne nous attendait tantôt insomniaque et électrique à Bangkok tan
 
 Les trois endroits que nous avons visité lors de cette aventure **- Bangkok , la province de Kanshanaburi et Koh Chang -** nous ont finalement offert des natures hétéroclites et des panoramas assez variés de ce beau pays. Nous sommes passés de la fourmilière de la mégalopole au calme de la jungle puis des plages. On a troqué la vue sur les gratte-ciels contre des cocotiers et des couchers de soleils à vous couper le souffle.
 [![railroad]({{ site.images }}/thailande_culture/ville_3.jpg)]({{ site.images }}/thailande_culture/ville_3.jpg)
-[![railroad]({{ site.images }}/thailande_culture/nature_4.jpg)]({{ site.images }}/thailande_culture/nature_4.jpg)
 
 
 [![railroad]({{ site.images }}/thailande_culture/nature_5.jpg)]({{ site.images }}/thailande_culture/nature_5.jpg)
 
 
+[![railroad]({{ site.images }}/thailande_culture/nature_4.jpg)]({{ site.images }}/thailande_culture/nature_4.jpg)
 
  
 
