@@ -11,7 +11,7 @@ tags: ['thailande']
 author: Déborah & Florent
 ---
 [![railroad]({{ site.images }}/thailande_culture/head.jpg)]({{ site.images }}/thailande_culture/head.jpg)
-Avec quelques semaines de recul on se rappelle avec nostalgie de tous ces bons moments passés dans ce pays plein de surprises qui nous a clairement fait déconnecter de Paris.
+Avec quelques semaines de recul on se rappelle avec nostalgie de tous les bons moments passés dans ce pays plein de surprises qui nous a clairement fait déconnecter de Paris.
 
 [![railroad]({{ site.images }}/thailande_culture/ville_1.jpg)]({{ site.images }}/thailande_culture/ville_1.jpg)
 
@@ -39,10 +39,10 @@ Pour sortir de Bangkok et atteindre nos destinations plus lointaines, nous avons
 
 - Négociez le prix pour les tuk-tuk... mais pas trop!
 - Essayez de trouver l’adresse désirée écrite en thaï pour que le chauffeur évite d’aller demander à son pote, à l’autre bout de la ville ce que vous lui montrez sur votre appli de localisation.
-**50 baths pour une course de quartier / 150 pour aller plus loin...**
+**50 bahts pour une course de quartier / 150 pour aller plus loin...**
 - Le taxi nous a bien fait vadrouiller et partagé, il ne revient pas trop cher. N'hésitez pas même pour de longues distances mais fixez le prix dès le début.
 
-**WARNING** Ne vous laissez pas embarquer par des prétendus guides vous proposant des visites à prix cassé et affirmant qu’un site touristique est fermé -> on a failli faire une "magnifique balade d'une heure" sur le fleuve alors que le temple nous attendait OUVERT pour une belle fin de journée.
+**WARNING** Ne vous laissez pas embarquer par des prétendus guides vous proposant des visites à prix cassés et affirmant qu’un site touristique est fermé -> on a failli faire une "magnifique balade d'une heure" sur le fleuve alors que le temple nous attendait OUVERT pour une belle fin de journée.
 
 [![railroad]({{ site.images }}/thailande_culture/fleurs_2.jpg)]({{ site.images }}/thailande_culture/fleurs_2.jpg)
 
@@ -50,7 +50,7 @@ Nous avons donc lâché les transports pour nous consacrer à des **connexions p
 
 [![railroad]({{ site.images }}/thailande_culture/religion_3.jpg)]({{ site.images }}/thailande_culture/religion_3.jpg)
 
-La place de la religion est ici très forte. Il n'est pas rare de trouver une pièce dédiée à un dieu dans une maison Thaïlandaise et les **temples** inondent les villes et villages du pays de leurs belles couleurs et leurs mille statues
+La place de la religion est ici très forte. Il n'est pas rare de trouver une pièce dédiée à un dieu dans une maison Thaïlandaise et les **temples** inondent les villes et villages du pays de leurs belles couleurs et leurs mille statues.
 
 [![railroad]({{ site.images }}/thailande_culture/religion_4.jpg)]({{ site.images }}/thailande_culture/religion_4.jpg)
 
@@ -102,6 +102,6 @@ Les trois endroits que nous avons visité lors de cette aventure **- Bangkok , l
 - Si malgré nos avertissement vous décidez de faire les malins et de tenter ces 10h d'escale au Bahreïn, sachez qu'un **pub** irlandais se cache à l'étage, au bout de l'aéroport et assurera votre survie jusqu'à l'embarquement avec de bonnes bières, des canapés confortables, et des fish and chips.
 
 <p align="center">
-  <b></b>Sur ce .. เพื่อนลา   À bientôt les amis.<br>
+  <b></b>Sur ce .. เพื่อนลา   **À bientôt les amis.** <br>
 
 
