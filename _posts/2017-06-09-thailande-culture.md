@@ -3,7 +3,7 @@ bg: "thailande_culture/nature_1.jpg"
 ogImage: "thailande_culture/head.jpg"
 layout: post
 title: "Thaïlande connexion"
-summary: "Il n'y a pas que l'occident dans la vie !"
+summary: "code WiFi: SoleiletSourires :)"
 date:   2017-06-09 20:00:00 +0100
 categories: posts
 comments: true
