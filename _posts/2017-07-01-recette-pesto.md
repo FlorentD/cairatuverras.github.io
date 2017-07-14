@@ -38,8 +38,7 @@ Et si vous êtes des puristes du fait maison, rien ne vaut de bonnes tagliatelle
 
 [![railroad]({{ site.images }}/recette_pesto/tagliatelle.jpg)]({{ site.images }}/recette_pesto/tagliatelle.jpg)
 
-<p align="center">
-     <b></b>E ora, amici miei, buon appetito!<br
+<div class="post-link">E ora, amici miei, buon appetito!</div>
 
 
 
