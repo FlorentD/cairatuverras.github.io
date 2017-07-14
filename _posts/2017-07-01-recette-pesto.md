@@ -13,7 +13,7 @@ author: Déborah & Florent
 [![railroad]({{ site.images }}/recette_pesto/plat.jpg)]({{ site.images }}/recette_pesto/plat.jpg)
 Ça faisait longtemps qu’on ne vous avait pas parlé de bonne bouffe ! L’été vient de commencer mais on ne veut pas passer trois heures en cuisine. 
 
-Quand on choisi une sauce pour ses pâtes, on pense souvent à la carbonara qu’on massacre 9 fois sur 10 ou à la bolognaise, mais on oublie qu’il existe une sauce pleine d'avantages : **LE PESTO**. 
+Quand on choisi une sauce pour ses pâtes, on pense souvent à la carbonara qu’on massacre 9 fois sur 10 ou à la bolognaise, mais on oublie qu’il existe une sauce pleine d'avantages : <span style="color:green">**LE PESTO**</span>.
 
 Simple, équilibrée, elle ne vous prend ni la tête ni la moitié des ustensiles de la cuisine, pour un résultat rapide avec quelques produits frais qui feront leur effet. On a pas encore investi dans un bon mortier pour faire le pesto de manière traditionnelle, mais en attendant la prochaine crémaillère on se débrouille avec notre mixeur.
 
