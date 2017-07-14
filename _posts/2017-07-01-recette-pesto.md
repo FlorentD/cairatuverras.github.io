@@ -21,7 +21,7 @@ Simple, équilibrée, elle ne vous prend ni la tête ni la moitié des ustensile
 
 Pour environ 4 personnes, vous aurez besoin de : 
 
-+ **Un GROS bouquet** de basilic frais, à acheter ou cultiver soi-même, c’est encore mieux !
++ **Un GROS bouquet** de <span style="color:green">basilic frais</span>, à acheter ou cultiver soi-même, c’est encore mieux !
 + **Une gousse** d’ail fraîche
 + **80ml** d’huile d’olive de qualité
 + **60g** de parmesan de votre bon fromager 
@@ -32,13 +32,13 @@ Le but du jeu est de mettre tout ça dans un mixeur et…. C’est tout ! Laisse
 
 [![railroad]({{ site.images }}/recette_pesto/hachoir.jpg)]({{ site.images }}/recette_pesto/hachoir.jpg)
 
-Vous pouvez utiliser tout ou une partie de votre sauce et mettre le reste dans un bocal en verre dans lequel vous ajoutez un petit filet d’huile d’olive pour améliorer la conservation. Vous pourrez garder ce bocal jusqu’à 4 semaines au réfrigérateur. De quoi dépanner plus d’une soirée !
+Vous pouvez utiliser tout ou une partie de votre sauce et mettre le reste dans un bocal en verre dans lequel vous ajoutez un petit filet d’huile d’olive pour améliorer la conservation. Vous pourrez garder ce bocal jusqu’à 4 semaines au réfrigérateur. <span style="color:green">De quoi dépanner plus d’une soirée !</span>
 
 Et si vous êtes des puristes du fait maison, rien ne vaut de bonnes tagliatelles faites minutes ! Le plaisir en est décuplé ! *miam*
 
 [![railroad]({{ site.images }}/recette_pesto/tagliatelle.jpg)]({{ site.images }}/recette_pesto/tagliatelle.jpg)
 
-<div class="post-link">E ora, amici miei, buon appetito!</div>
+<div style="color:green" class="post-link">E ora, amici miei, buon appetito!</div>
 
 
 
