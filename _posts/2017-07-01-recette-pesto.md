@@ -36,8 +36,9 @@ Vous pouvez utiliser tout ou une partie de votre sauce et mettre le reste dans u
 
 Et si vous êtes des puristes du fait maison, rien ne vaut de bonnes tagliatelles faites minutes ! Le plaisir en est décuplé ! *miam*
 
+[![railroad]({{ site.images }}/recette_pesto/tagliatelle.jpg)]({{ site.images }}/recette_pesto/tagliatelle.jpg)
 
-E ora, amici miei, buon appetito!
+<p style="text-align:center";>E ora, amici miei, buon appetito!</p>
 
 
 
@@ -45,5 +46,4 @@ E ora, amici miei, buon appetito!
 * Merci à Kathrin pour l'inspiration de cette recette <3 *
 
 
-[![railroad]({{ site.images }}/recette_pesto/tagliatelle.jpg)]({{ site.images }}/recette_pesto/tagliatelle.jpg)
 
