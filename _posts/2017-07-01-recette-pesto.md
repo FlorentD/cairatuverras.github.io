@@ -13,7 +13,7 @@ author: Déborah & Florent
 [![railroad]({{ site.images }}/recette_pesto/plat.jpg)]({{ site.images }}/recette_pesto/plat.jpg)
 Ça faisait longtemps qu’on ne vous avait pas parlé de bonne bouffe ! L’été vient de commencer mais on ne veut pas passer trois heures en cuisine. 
 
-Quand on choisi une sauce pour ses pâtes, on pense souvent à la carbonara qu’on massacre 9 fois sur 10 ou à la bolognaise mais on oublie qu’il existe une sauce pleine davantage : **LE PESTO**. 
+Quand on choisi une sauce pour ses pâtes, on pense souvent à la carbonara qu’on massacre 9 fois sur 10 ou à la bolognaise, mais on oublie qu’il existe une sauce pleine d'avantages : **LE PESTO**. 
 
 Simple, équilibrée, elle ne vous prend ni la tête ni la moitié des ustensiles de la cuisine, pour un résultat rapide avec quelques produits frais qui feront leur effet. On a pas encore investi dans un bon mortier pour faire le pesto de manière traditionnelle, mais en attendant la prochaine crémaillère on se débrouille avec notre mixeur.
 
@@ -21,14 +21,14 @@ Simple, équilibrée, elle ne vous prend ni la tête ni la moitié des ustensile
 
 Pour environ 4 personnes, vous aurez besoin de : 
 
-+ **Un gros bouquet** de basilic frais, à acheter ou cultiver soi-même, c’est encore mieux !
++ **Un GROS bouquet** de basilic frais, à acheter ou cultiver soi-même, c’est encore mieux !
 + **Une gousse** d’ail fraîche
 + **80ml** d’huile d’olive de qualité
 + **60g** de parmesan de votre bon fromager 
 + **30g** de pignons de pin 
 + **1 pincée** de gros sel 
 
-Le but du jeu est de mettre tout ça dans un mixeur et…. C’est tout ! Laissez hacher plus ou moins longtemps suivant votre goût des textures. Nous, on ne laisse pas trop longtemps pour garder un côté un peu granuleux.
+Le but du jeu est de mettre tout ça dans un mixeur et…. C’est tout ! Laissez hacher plus ou moins longtemps suivant votre goût des textures. Nous, on laisse juste de quoi garder un côté un peu granuleux.
 
 [![railroad]({{ site.images }}/recette_pesto/hachoir.jpg)]({{ site.images }}/recette_pesto/hachoir.jpg)
 
