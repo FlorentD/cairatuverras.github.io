@@ -2,10 +2,11 @@
 
 @font-face {
   font-family: 'Bernadette';
-  src: url('../css/bernadette/Bernadette.eot?#iefix') format('embedded-opentype'),
-  url('../css/bernadette/Bernadette.woff') format('woff'),
-  url('../css/bernadette/Bernadette.ttf') format('truetype'),
-  url('../css/bernadette/Bernadette.svg#Bernadette') format('svg');
+  src: url('../css/bernadette/Bernadette.eot?#iefix')
+      format('embedded-opentype'),
+    url('../css/bernadette/Bernadette.woff') format('woff'),
+    url('../css/bernadette/Bernadette.ttf') format('truetype'),
+    url('../css/bernadette/Bernadette.svg#Bernadette') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -84,7 +85,10 @@ h6 {
   text-transform: uppercase;
   font-weight: bold;
   margin: .67em 0;
-  a:link, a:hover, a:focus, a:visited {
+  a:link,
+  a:hover,
+  a:focus,
+  a:visited {
     color: #fff;
   }
 }
@@ -126,7 +130,7 @@ pre {
   line-height: 1.5;
   border: 1px solid #ddd;
   padding: .3em;
-  background: #F9F8F6;
+  background: #f9f8f6;
   margin: 2em 0;
   code {
     background-color: transparent;
@@ -200,7 +204,8 @@ blockquote {
 /*
 * Buttons
 * ========================================================================== */
-button, input[type="submit"] {
+button,
+input[type="submit"] {
   border: none;
 }
 
@@ -222,7 +227,8 @@ article a.btn {
   height: 3em;
   padding: .5em 0;
   color: #333;
-  a:link, a:focus {
+  a:link,
+  a:focus {
     color: #333;
   }
   font-size: 1.5em;
@@ -319,6 +325,11 @@ a > img {
 }
 
 .post-link {
+  width: 100%;
+  text-align: center;
+}
+
+.center {
   width: 100%;
   text-align: center;
 }
