@@ -64,6 +64,7 @@ Si l’envie vous démange quand même de prévoir quelques bonnes adresses dans
 + Un petit bar jazz proposant de mettre en lumière chaque lundi de nouveaux artistes. Quelques notes de blues pour finir la soirée en douceur: [Mojo](http://www.mojo.dk) 
 + Une partie de pétanque en dégustant un bon cocktail: [boulebar](https://www.boulebar.dk)
 + Louer des vélos et faire une bonne action: [baisikeli](http://baisikeli.dk)
+
 [![railroad]({{ site.images }}/copenhague/streetart.jpg)]({{ site.images }}/copenhague/streetart.jpg)
 On s’est aussi dit que cette ville serait bien sympathique à découvrir sous des températures plus chaudes alors pour la prochaine fois on se réserve: 
 
