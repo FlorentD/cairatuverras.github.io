@@ -60,7 +60,7 @@ Si l’envie vous démange quand même de prévoir quelques bonnes adresses dans
 + N’importe quel plat/dessert/boisson du Barr… tout est délicieux et l’accueil incomparable [restaurantbarr.com](https://restaurantbarr.com)
 + La déco et le brunch de Uggis coffee [uggiscoffee.com](https://www.uggiscoffee.com)
 + Le brunch paisible chez [BINGO](https://www.facebook.com/bingomadkaffevin/)
-+ Un café tranquille et calme vers le quartier de Norrebro:[Shabaz] (https://www.google.fr/maps/place/ShaBaz+Kaffebar+%26+K%C3%B8kken/@55.6851474,12.5534437,14z/data=!4m11!1m5!8m4!1e1!2s103305870980421951667!3m1!1e1!3m4!1s0x0:0xc9eb44afbe47fe3!8m2!3d55.685209!4d12.5535321)
++ Un café tranquille et calme vers le quartier de Norrebro:[Shabaz](https://www.google.fr/maps/place/ShaBaz+Kaffebar+%26+K%C3%B8kken/@55.6851474,12.5534437,14z/data=!4m11!1m5!8m4!1e1!2s103305870980421951667!3m1!1e1!3m4!1s0x0:0xc9eb44afbe47fe3!8m2!3d55.685209!4d12.5535321)
 + Un restaurant traditionnel au milieu des tableaux de la famille royale: [københavnercafeen](http://www.københavnercafeen.dk)
 + Un petit bar jazz proposant de mettre en lumière chaque lundi de nouveaux artistes. Quelques notes de blues pour finir la soirée en douceur: [Mojo](http://www.mojo.dk) 
 + Une partie de pétanque en dégustant un bon cocktail: [boulebar](https://www.boulebar.dk)
