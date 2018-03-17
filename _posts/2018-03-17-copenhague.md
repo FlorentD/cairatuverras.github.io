@@ -67,7 +67,7 @@ Si l’envie vous démange quand même de prévoir quelques bonnes adresses dans
 + Louer des vélos et faire une bonne action: [baisikeli](http://baisikeli.dk)
 
 On vous met le tout sur une belle carte googlemap: 
-<iframe src="https://www.google.com/maps/d/embed?mid=1LNhHYmf4Z-EYWqR6Efz2vLR3awfOIw8G" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1LNhHYmf4Z-EYWqR6Efz2vLR3awfOIw8G" width="640" height="640"></iframe>
 
 [![railroad]({{ site.images }}/copenhague/streetart.jpg)]({{ site.images }}/copenhague/streetart.jpg)
 On s’est aussi dit que cette ville serait bien sympathique à découvrir sous des températures plus chaudes alors pour la prochaine fois on se réserve: 
