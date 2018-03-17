@@ -67,6 +67,6 @@ Si l’envie vous démange quand même de prévoir quelques bonnes adresses dans
 [![railroad]({{ site.images }}/copenhague/streetart.jpg)]({{ site.images }}/copenhague/streetart.jpg)
 On s’est aussi dit que cette ville serait bien sympathique à découvrir sous des températures plus chaudes alors pour la prochaine fois on se réserve: 
 
-    Des tours en vélo, des balades dans les parcs, l’Opéra et Copenhague street food !
+Des tours en vélo, des balades dans les parcs, l’Opéra et Copenhague street food !
 [![railroad]({{ site.images }}/copenhague/collage1.jpg)]({{ site.images }}/copenhague/collage1.jpg)
 
