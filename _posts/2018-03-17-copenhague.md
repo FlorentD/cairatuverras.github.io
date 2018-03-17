@@ -76,5 +76,8 @@ Des tours en vélo, des balades dans les parcs, l’Opéra et Copenhague street 
 
 On vous résume le tout sur une belle carte: 
 
+
+
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1LNhHYmf4Z-EYWqR6Efz2vLR3awfOIw8G" width="640" height="640"></iframe>
 
